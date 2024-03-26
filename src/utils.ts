@@ -1,9 +1,7 @@
-import { Unit } from "./api/army-forge";
 import {
   ArmyBookResponse,
-  OptionsItem,
-  SectionsItem,
   SpecialRulesItem,
+  Unit,
   UpgradePackagesItem,
 } from "./api/army-forge/api";
 import { RELEVANT_SPECIAL_RULE_KEYS, SPECIAL_RULE_KEYS } from "./constants";
