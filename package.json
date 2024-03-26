@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.2"
+  },
+  "name": "opr-horde-mode-spawn-tables",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Daniel Backus",
+  "license": "MIT",
+  "description": ""
+}
