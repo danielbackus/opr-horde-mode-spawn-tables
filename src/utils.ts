@@ -183,7 +183,11 @@ export const mapUnitToString = ({
     `${cost} pts`,
     specialRules.map((rule) => rule.label ?? rule.name).join(", "),
     equipment.length > 0
-      ? equipment.map((equipment) => equipment.label).join(", ")
+      ? equipment
+          .map(
+            ({ count, label }) => `${isCombined ? 2 * count : count}x ${label}`
+          )
+          .join(", ")
       : null,
   ]
     .filter((part) => part != null)
