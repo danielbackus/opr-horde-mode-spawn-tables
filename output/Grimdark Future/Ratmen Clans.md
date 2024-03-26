@@ -32,3 +32,5 @@
 1. Rat Ogres (6) | Q4+ D3+ | 360 pts | Furious, Tough | Twin Combat Drills (A4, AP(1), Rending)
 
 ## 11 - 12
+
+No units.

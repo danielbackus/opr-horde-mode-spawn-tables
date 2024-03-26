@@ -43,3 +43,5 @@
 1. Corrupted Beasts (6) | Q3+ D3+ | 460 pts | Tough, Undead | Dual Sharp Claws (A4, AP(1), Rending)
 
 ## 11 - 12
+
+No units.
