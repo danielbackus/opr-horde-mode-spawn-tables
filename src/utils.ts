@@ -7,6 +7,7 @@ import {
 import { RELEVANT_SPECIAL_RULE_KEYS, SPECIAL_RULE_KEYS } from "./constants";
 import {
   HeroWithUpgrades,
+  PopulatedTier,
   Tier,
   Upgrade,
   UpgradeMap,
@@ -192,16 +193,13 @@ export const populateTier = (candidates: Unit[], tier: Tier) => {
   const candidateHeroes = candidates.filter(isHero);
   const candidateNonHeroes = candidates.filter(isNotHero);
   const units = [
-    ...getValidUnitsInRange(
-      candidateHeroes,
-      tier.points.min,
-      tier.points.max
-    ).map(mapUnitToString),
+    ...getValidUnitsInRange(candidateHeroes, tier.points.min, tier.points.max),
     ...getValidUnitsInRange(
       candidateNonHeroes,
       tier.points.min,
       tier.points.max
-    ).map(mapUnitToString),
+    ),
+    // TODO upgraded units
     // TODO units with attached heroes
 
     // TODO units with upgraded attached heroes
@@ -209,9 +207,9 @@ export const populateTier = (candidates: Unit[], tier: Tier) => {
       candidateNonHeroes.filter((unit) => unit.size > 1),
       tier.points.min / 2,
       tier.points.max / 2
-    ).map((unit) => mapUnitToString(combineUnit(unit))),
+    ).map(combineUnit),
     // TODO combined units with attached heroes
-    // TODO combined units with attached heroes
+    // TODO combined units with upgraded attached heroes
   ];
 
   return {
@@ -220,12 +218,15 @@ export const populateTier = (candidates: Unit[], tier: Tier) => {
   };
 };
 
+export const mapPopulatedTierToString = ({ roll, units }: PopulatedTier) =>
+  [`\n## ${roll.min} - ${roll.max}`, "", ...units.map(mapUnitToString)].join(
+    "\n"
+  );
+
 export const buildSpawnTables = (army: ArmyBookResponse, tiers: Tier[]) => {
   const tierStrings = tiers
     .map((tier) => populateTier(army.units, tier))
-    .map(({ roll, units }) =>
-      [`\n## ${roll.min} - ${roll.max}`, "", ...units].join("\n")
-    );
+    .map(mapPopulatedTierToString);
 
   return [
     `# ${army.name} ${army.versionString} Horde Spawn Table`,

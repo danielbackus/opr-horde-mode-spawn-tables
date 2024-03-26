@@ -1,4 +1,4 @@
-import { OptionsItem, SectionsItem, UnitsItem, UpgradePackagesItem } from "./api/army-forge/api";
+import { OptionsItem, SectionsItem, Unit, UnitsItem, UpgradePackagesItem } from "./api/army-forge/api";
 
 type MinMax = {
   min: number;
@@ -9,6 +9,10 @@ export type Tier = {
   roll: MinMax;
   points: MinMax;
 };
+
+export type PopulatedTier = Tier & {
+  units: Unit[];
+}
 
 export type UpgradeSectionAndOption = {
   upgrade: UpgradePackagesItem;
