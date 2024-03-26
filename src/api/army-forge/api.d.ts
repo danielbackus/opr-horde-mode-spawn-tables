@@ -86,6 +86,7 @@ export interface UnitsItem {
     disabledUpgradeSections: string[];
     key?: string;
 }
+export type Unit = UnitsItem;
 export interface EquipmentItem {
     id: string;
     name: string;

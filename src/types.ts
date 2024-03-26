@@ -1,5 +1,4 @@
-import { Unit } from "./api/army-forge";
-import { OptionsItem, SectionsItem, UpgradePackagesItem } from "./api/army-forge/api";
+import { OptionsItem, SectionsItem, UnitsItem, UpgradePackagesItem } from "./api/army-forge/api";
 
 type MinMax = {
   min: number;
@@ -17,7 +16,7 @@ export type UpgradeSectionAndOption = {
   option: OptionsItem;
 };
 
-export type HeroWithUpgrades = Omit<Unit, "upgrades"> & {
+export type HeroWithUpgrades = Omit<UnitsItem, "upgrades"> & {
   selectedUpgrades: UpgradeSectionAndOption[];
 };
 
