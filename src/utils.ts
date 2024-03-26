@@ -219,9 +219,11 @@ export const populateTier = (candidates: Unit[], tier: Tier) => {
 };
 
 export const mapPopulatedTierToString = ({ roll, units }: PopulatedTier) =>
-  [`\n## ${roll.min} - ${roll.max}`, "", ...units.map(mapUnitToString)].join(
-    "\n"
-  );
+  [
+    `\n## ${roll.min} - ${roll.max}`,
+    "",
+    ...(units.length > 0 ? units.map(mapUnitToString) : ["No units."]),
+  ].join("\n");
 
 export const buildSpawnTables = (army: ArmyBookResponse, tiers: Tier[]) => {
   const tierStrings = tiers
