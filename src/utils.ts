@@ -4,25 +4,35 @@ import {
   Unit,
   UpgradePackagesItem,
 } from "./api/army-forge/api";
-import { RELEVANT_SPECIAL_RULE_KEYS, SPECIAL_RULE_KEYS } from "./constants";
 import {
-  HeroWithUpgrades,
+  RELEVANT_RULE_KEYS_FOR_ATTACHMENT,
+  SPECIAL_RULE_KEYS,
+} from "./constants";
+import {
   PopulatedTier,
   Tier,
+  UnitWithAttachment,
+  UnitWithUpgrades,
   Upgrade,
   UpgradeMap,
   UpgradeSectionAndOption,
 } from "./types";
 
+export const canAttach = (unit: Unit) =>
+  Number(
+    unit.rules.find((rule) => rule.key === SPECIAL_RULE_KEYS.TOUGH)
+      ?.rating ?? 0
+  ) <= 6;
+
 export const isHero = (unit: Unit) =>
-  unit.specialRules.some((rule) => rule.key === SPECIAL_RULE_KEYS.HERO);
+  unit.rules.some((rule) => rule.key === SPECIAL_RULE_KEYS.HERO);
 
 export const isNotHero = (unit: Unit) =>
-  !unit.specialRules.some((rule) => rule.key === SPECIAL_RULE_KEYS.HERO);
+  !unit.rules.some((rule) => rule.key === SPECIAL_RULE_KEYS.HERO);
 
 // TODO just check against min/max, for case of attached heroes
-export const isInTier = (tier: Tier) => (unit: Unit) =>
-  unit.cost >= tier.points.min && unit.cost <= tier.points.max;
+export const isInTier = (unit: Unit, min: number, max: number) =>
+  unit.cost >= min && unit.cost <= max;
 
 export const mapUpgradePackagesToSectionsAndOptions = (
   upgradePackages: UpgradePackagesItem[]
@@ -51,7 +61,7 @@ export const mapUpgradePackagesToSectionsAndOptions = (
 export const getHeroCombinations = (
   hero: Unit,
   upgradeMap: UpgradeMap
-): HeroWithUpgrades[] => {
+): UnitWithUpgrades[] => {
   // for each "choose one" upgrade, return
   const heroUpgrades = hero?.upgrades
     ?.map((upgradeId) => upgradeMap[upgradeId])
@@ -66,20 +76,89 @@ export const getHeroCombinations = (
   }));
 };
 
+export const buildUnitWithUpgradesAndAttachments = (
+  unit: Unit,
+  hero?: Unit
+): UnitWithAttachment => {
+  return {
+    unit,
+    hero,
+  };
+};
+
 export const getValidUnitsInRange = (units: Unit[], min: number, max: number) =>
   units.filter((unit) => {
     return unit.cost >= min && unit.cost <= max;
   });
 
-export const getValidHeroes = (units: Unit[], tier: Tier): Unit[] =>
-  units.filter(isInTier(tier));
+export const getValidHeroes = (
+  units: Unit[],
+  min: number,
+  max: number
+): Unit[] =>
+  units.filter(
+    (unit) => isInTier(unit, min, max) && isHero(unit) && canAttach(unit)
+  );
 
-export const getValidNonHeroUnits = (units: Unit[], tier: Tier): Unit[] =>
-  units.filter((unit) => isInTier(tier) && isHero(unit));
+export const getValidNonHeroUnits = (
+  units: Unit[],
+  min: number,
+  max: number
+): Unit[] => units.filter((unit) => isInTier(unit, min, max) && !isHero(unit));
+
+export const getValidAttachedUnitsInRange = (
+  heroes: Unit[],
+  units: Unit[],
+  min: number,
+  max: number
+): UnitWithAttachment[] => {
+  const validHeroes = getValidHeroes(heroes, min, max);
+
+  const cheapestHero = validHeroes.reduce(
+    (cheapest: Unit | null, hero: Unit) => {
+      if (cheapest == null) {
+        return hero;
+      }
+      return hero.cost < cheapest.cost ? hero : cheapest;
+    },
+    null
+  );
+  if (cheapestHero == null) {
+    return [];
+  }
+  const validUnits = getValidNonHeroUnits(units, min, max).filter(
+    (unit) => unit.cost <= max - (cheapestHero?.cost ?? 0)
+  );
+  return validUnits.reduce(
+    (attachedUnits: UnitWithAttachment[], unit: Unit) => {
+      return [
+        ...attachedUnits,
+        ...validHeroes.reduce(
+          (unitsWithHero: UnitWithAttachment[], hero: Unit) => {
+            return [
+              ...unitsWithHero,
+              ...(hero.cost + unit.cost < max
+                ? [
+                    {
+                      hero,
+                      unit,
+                    },
+                  ]
+                : []),
+            ];
+          },
+          []
+        ),
+      ];
+    },
+    []
+  );
+};
 
 export const getRelevantSpecialRules = (unit: Unit) =>
-  unit.specialRules.filter(
-    (rule) => rule.key != null && RELEVANT_SPECIAL_RULE_KEYS.includes(rule.key)
+  unit.rules.filter(
+    (rule) =>
+      rule.key != null && RELEVANT_RULE_KEYS_FOR_ATTACHMENT.includes(rule.key)
   );
 
 export const getMatchingSpecialRuleUpgrade = (
@@ -113,14 +192,14 @@ export const getMatchingSpecialRuleUpgrade = (
 
 export const getRelevantSpecialRuleUpgrades = () => {};
 
-export const getUnitMaxRange = (unit: Unit): number | null =>
-  unit?.equipment
-    ?.filter((equipment) =>
-      equipment.specialRules?.every(
-        (rule) => rule.key !== SPECIAL_RULE_KEYS.LIMITED
-      )
-    )
-    ?.reduce((acc, curr) => Math.max(acc, curr?.range ?? 0), 0);
+// export const getUnitMaxRange = (unit: Unit): number | null =>
+//   unit?.items
+//     ?.filter((equipment) =>
+//       equipment.rules?.every(
+//         (rule) => rule.key !== SPECIAL_RULE_KEYS.LIMITED
+//       )
+//     )
+//     ?.reduce((acc, curr) => Math.max(acc, curr?.range ?? 0), 0);
 
 // export const getRelevantRangeUpgrades = (unit: Unit): Upgrade[] => {
 //   const range = getUnitMaxRange(unit);
@@ -168,22 +247,44 @@ export const combineUnit = ({
 });
 
 export const mapUnitToString = ({
-  cost,
-  defense,
-  equipment,
-  isCombined,
-  name,
-  quality,
-  size,
-  specialRules,
-}: Unit & { isCombined?: boolean }) =>
-  [
-    `1. ${name} (${size})`,
+  unit,
+  hero,
+}: UnitWithAttachment & { isCombined?: boolean }) => {
+  const {
+    cost,
+    defense,
+    weapons,
+    isCombined,
+    name,
+    quality,
+    size,
+    rules,
+  } = unit;
+
+  return [
+    ...(hero != null
+      ? [
+          `1. ${hero.name} [${hero.size}]`,
+          `Q${hero.quality}+ D${hero.defense}+`,
+          `${hero.cost} pts`,
+          hero.rules.map((rule) => rule.label ?? rule.name).join(", "),
+          hero.weapons.length > 0
+            ? weapons
+                .map(
+                  ({ count, label }) =>
+                    `${isCombined ? 2 * count : count}x ${label}`
+                )
+                .join(", ")
+            : null,
+          "Joined to:",
+        ]
+      : []),
+    `${hero == null ? "1. " : ""}${name} [${size}]`,
     `Q${quality}+ D${defense}+`,
     `${cost} pts`,
-    specialRules.map((rule) => rule.label ?? rule.name).join(", "),
-    equipment.length > 0
-      ? equipment
+    rules.map((rule) => rule.label ?? rule.name).join(", "),
+    weapons.length > 0
+      ? weapons
           .map(
             ({ count, label }) => `${isCombined ? 2 * count : count}x ${label}`
           )
@@ -192,27 +293,58 @@ export const mapUnitToString = ({
   ]
     .filter((part) => part != null)
     .join(" | ");
-
-export const populateTier = (candidates: Unit[], tier: Tier) => {
+};
+export const populateTier = (candidates: Unit[], tier: Tier): PopulatedTier => {
   const candidateHeroes = candidates.filter(isHero);
   const candidateNonHeroes = candidates.filter(isNotHero);
-  const units = [
-    ...getValidUnitsInRange(candidateHeroes, tier.points.min, tier.points.max),
+  const units: UnitWithAttachment[] = [
+    ...getValidUnitsInRange(
+      candidateHeroes,
+      tier.points.min,
+      tier.points.max
+    ).map((unit) => {
+      return {
+        unit,
+        hero: undefined,
+      };
+    }),
+    // TODO upgraded units
     ...getValidUnitsInRange(
       candidateNonHeroes,
       tier.points.min,
       tier.points.max
+    ).map((unit) => {
+      return {
+        unit,
+        hero: undefined,
+      };
+    }),
+    ...getValidAttachedUnitsInRange(
+      candidateHeroes,
+      candidateNonHeroes,
+      tier.points.min,
+      tier.points.max
     ),
-    // TODO upgraded units
-    // TODO units with attached heroes
 
     // TODO units with upgraded attached heroes
     ...getValidUnitsInRange(
       candidateNonHeroes.filter((unit) => unit.size > 1),
       tier.points.min / 2,
       tier.points.max / 2
-    ).map(combineUnit),
-    // TODO combined units with attached heroes
+    )
+      .map(combineUnit)
+      .map((unit) => {
+        return {
+          unit,
+          hero: undefined,
+        };
+      }),
+    ...getValidAttachedUnitsInRange(
+      candidateHeroes,
+      candidateNonHeroes.filter((unit) => unit.size > 1).map(combineUnit),
+      tier.points.min / 2,
+      tier.points.max / 2
+    ),
     // TODO combined units with upgraded attached heroes
   ];
 
@@ -222,13 +354,13 @@ export const populateTier = (candidates: Unit[], tier: Tier) => {
   };
 };
 
-export const mapPopulatedTierToString = ({ roll, units }: PopulatedTier) =>
-  [
+export const mapPopulatedTierToString = ({ roll, units }: PopulatedTier) => {
+  return [
     `\n## ${roll.min} - ${roll.max}`,
     "",
     ...(units.length > 0 ? units.map(mapUnitToString) : ["No units."]),
   ].join("\n");
-
+};
 export const buildSpawnTables = (army: ArmyBookResponse, tiers: Tier[]) => {
   const tierStrings = tiers
     .map((tier) => populateTier(army.units, tier))
@@ -238,4 +370,53 @@ export const buildSpawnTables = (army: ArmyBookResponse, tiers: Tier[]) => {
     `# ${army.name} ${army.versionString} Horde Spawn Table`,
     ...tierStrings,
   ].join("\n");
+};
+
+const LEADER_UPGRADE_HINT = "Leader Upgrades";
+
+const RELEVANT_UPGRADE_HINTS = ["Leader Weapons", "Specialist"];
+
+export const getUnitUpgradeVariations = (
+  unit: Unit,
+  upgradeMap: UpgradeMap
+): UnitWithUpgrades[] => {
+  const upgrades = unit.upgrades
+    .map((upgradeId) => upgradeMap[upgradeId])
+    .filter((upgrade): upgrade is UpgradePackagesItem => upgrade != null);
+
+  const leaderUpgrade: UpgradePackagesItem | undefined = upgrades.find(
+    (upgrade) => upgrade.hint.startsWith(LEADER_UPGRADE_HINT)
+  );
+  const weaponUpgrades = upgrades.filter((upgrade) =>
+    RELEVANT_UPGRADE_HINTS.some((relevantHint) =>
+      upgrade.hint.startsWith(relevantHint)
+    )
+  );
+
+  const baseVariations: UnitWithUpgrades[] = [
+    unit,
+    ...(isHero(unit) && leaderUpgrade != null
+      ? [
+          {
+            ...unit,
+            selectedUpgrades: mapUpgradePackagesToSectionsAndOptions([
+              leaderUpgrade,
+            ]),
+          },
+        ]
+      : []),
+  ];
+
+  return [
+    ...baseVariations,
+    ...baseVariations.map(variation => {
+      return {
+        ...variation,
+        selectedUpgrades: [
+          ...variation.selectedUpgrades ?? [],
+
+        ]
+      };
+    })
+  ]
 };

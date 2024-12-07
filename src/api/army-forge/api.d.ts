@@ -9,7 +9,7 @@ export interface ArmyBookSummaryResponseItem {
     modifiedAt: string;
     official: boolean;
     versionString: string;
-    coverImagePath: null;
+    coverImagePath: null | string;
     coverImageCredit: null | string;
     bannerImagePath: string | null;
     isLive: boolean;
@@ -30,6 +30,7 @@ export interface ArmyBookSummaryResponseItem {
 
 export interface ArmyBookResponse {
     uid: string;
+    gameSystemKey: string;
     enabledGameSystems: number[];
     name: string;
     hint: string;
@@ -37,16 +38,17 @@ export interface ArmyBookResponse {
     backgroundFull: string;
     units: UnitsItem[];
     upgradePackages: UpgradePackagesItem[];
-    specialRules: SpecialRulesItem[];
+    rules?: SpecialRulesItem[];
+    specialRules?: SpecialRulesItem[];
     customRules: any[];
     customWeapons: CustomWeaponsItem[];
     spells: SpellsItem[];
     modifiedAt: string;
     official: boolean;
     versionString: string;
-    coverImagePath: null;
-    coverImageCredit: null;
-    bannerImagePath: null;
+    coverImagePath: any;
+    coverImageCredit: any;
+    bannerImagePath: string | null;
     isLive: boolean;
     factionId: null;
     factionName: null;
@@ -63,10 +65,10 @@ export interface ArmyBookResponse {
     isCreator: boolean;
     gameSystemId: number;
     gameSystemSlug: string;
-    fullname: string;
+    fullname?: string;
     aberration: string;
-    universe: string;
-    shortname: string;
+    universe?: string;
+    shortname?: string;
     flavouredUid: string;
 }
 export interface UnitsItem {
@@ -74,12 +76,18 @@ export interface UnitsItem {
     cost: number;
     name: string;
     size: number;
+    type?: number;
     valid: boolean;
     defense: number;
     quality: number;
     upgrades: string[];
-    equipment: EquipmentItem[];
-    specialRules: SpecialRulesItem[];
+    weapons: EquipmentItem[];
+    rules: SpecialRulesItem[];
+    items: unknown[];
+    isNarrative?: boolean;
+    disabled?: boolean;
+    disabledSections?: unknown;
+    bases: any;
     hasCustomRule: boolean;
     disabledSections: string[];
     hasBalanceInvalid: boolean;
@@ -94,23 +102,23 @@ export interface EquipmentItem {
     count: number;
     label: string;
     range?: number;
-    attacks: number;
+    attacks: number | string;
     weaponId: string;
     specialRules: SpecialRulesItem[];
     originalCount: number;
 }
 export interface SpecialRulesItem {
     key?: string;
-    name: string;
+    name?: string;
     rating?: string | number;
     modify?: boolean;
     additional?: boolean;
-    id?: number;
+    id?: number | string;
     label?: string;
     type?: string;
     description?: string;
     hasRating?: boolean | null;
-    aliasedRuleId?: number | null;
+    aliasedRuleId?: string | number | null;
 }
 export interface UpgradePackagesItem {
     uid: string;
@@ -134,15 +142,16 @@ export interface SectionsItem {
 }
 export interface OptionsItem {
     uid: string;
-    cost: number;
+    cost?: number;
     type: string;
-    costs: CostsItem[];
+    costs?: CostsItem[];
     gains: GainsItem[];
     label: string;
-    proposedVersion: string;
+    proposedVersion?: string;
     parentPackageUid?: string;
     parentSectionUid?: string;
-    proposedCostHint: ProposedCostHintItem[];
+    parentSectionId?: string;
+    proposedCostHint?: ProposedCostHintItem[];
     id: string;
     proposedCost?: number;
 }
@@ -155,6 +164,7 @@ export interface GainsItem {
     type: string;
     count: number;
     label: string;
+    bases?: any;
     range?: number;
     attacks?: number | string;
     weaponId?: string;
@@ -179,14 +189,14 @@ export interface ContentItem {
     key?: string;
     name: string;
     type: string;
-    label: string;
+    label?: string;
     rating?: string | number;
     modify?: boolean;
     id?: string;
     range?: number;
     attacks?: number;
     weaponId?: string;
-    specialRules?: SpecialRulesItem[];
+    rules?: SpecialRulesItem[];
     count?: number;
 }
 export interface Select {
@@ -196,7 +206,7 @@ export interface Select {
 export interface CustomWeaponsItem {
     id: string;
     name: string;
-    label: string;
+    label?: string;
     parentId?: string;
     range?: number;
     attacks?: number | string;

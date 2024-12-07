@@ -11,7 +11,7 @@ export type Tier = {
 };
 
 export type PopulatedTier = Tier & {
-  units: Unit[];
+  units: UnitWithAttachment[];
 }
 
 export type UpgradeSectionAndOption = {
@@ -20,9 +20,15 @@ export type UpgradeSectionAndOption = {
   option: OptionsItem;
 };
 
-export type HeroWithUpgrades = Omit<UnitsItem, "upgrades"> & {
-  selectedUpgrades: UpgradeSectionAndOption[];
+export type UnitWithUpgrades = Omit<UnitsItem, "upgrades"> & {
+  selectedUpgrades?: UpgradeSectionAndOption[];
+  isCombined?: boolean;
 };
+
+export type UnitWithAttachment = {
+  unit: UnitWithUpgrades;
+  hero?: UnitWithUpgrades;
+}
 
 export type UpgradeMap = {
   [key in string]?: UpgradePackagesItem;
