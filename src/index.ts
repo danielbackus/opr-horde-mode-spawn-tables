@@ -9,14 +9,37 @@ import { buildSpawnTables } from "./utils";
 import { MOCK_ARMY_BOOK_RESPONSE, MOCK_ARMY_BOOK_SUMMARY_RESPONSE } from "./api/army-forge/mocks";
 
 const GAME_SYSTEMS = {
-  GRIMDARK_FUTURE: {
-    ID: 2,
-    NAME: "Grimdark Future",
-    SLUG: "grimdark-future",
-  },
+  // GRIMDARK_FUTURE: {
+  //   ID: 2,
+  //   NAME: "Grimdark Future",
+  //   SLUG: "grimdark-future",
+  // },
+  AGE_OF_FANTASY: {
+    ID: 4,
+    NAME: "Age of Fantasy",
+    SLUG: "age-of-fantasy",
+  }
 };
 const TIERS_BY_GAME_SYSTEM = {
-  [GAME_SYSTEMS.GRIMDARK_FUTURE.ID]: [
+  // [GAME_SYSTEMS.GRIMDARK_FUTURE.ID]: [
+  //   {
+  //     roll: { min: 3, max: 4 },
+  //     points: { min: 0, max: 100 },
+  //   },
+  //   {
+  //     roll: { min: 5, max: 7 },
+  //     points: { min: 105, max: 245 },
+  //   },
+  //   {
+  //     roll: { min: 8, max: 10 },
+  //     points: { min: 250, max: 395 },
+  //   },
+  //   {
+  //     roll: { min: 11, max: 12 },
+  //     points: { min: 400, max: Number.MAX_SAFE_INTEGER },
+  //   },
+  // ],
+  [GAME_SYSTEMS.AGE_OF_FANTASY.ID]: [
     {
       roll: { min: 3, max: 4 },
       points: { min: 0, max: 100 },
@@ -44,13 +67,13 @@ const main = async () => {
       // const summaries: ArmyBookSummaryResponse = [
       //   ...(orcSummary != null ? [orcSummary] : [])
       // ];
-      const url = "https://army-forge.onepagerules.com/api/army-books?filters=official&gameSystemSlug=grimdark-future&searchText=&page=1&unitCount=0&balanceValid=false&customRules=true&fans=false&sortBy=null";
-      // const url = `https://army-forge.onepagerules.com/api/afs/army-books?filters=official&gameSystemSlug=${system.SLUG}&searchText=&page=1&unitCount=0&balanceValid=false&customRules=true&fans=false&sortBy=null`;
+      const url = `https://army-forge.onepagerules.com/api/army-books?filters=official&gameSystemSlug=${system.SLUG}&searchText=&page=1&unitCount=0&balanceValid=false&customRules=true&fans=false&sortBy=null`;
+      
       console.log(`Fetching army book summaries for ${system.NAME}`);
       const response = await fetch(url);
       if (response.status !== 200) {
         console.error(
-          `Unable to get army book summaries for ${GAME_SYSTEMS.GRIMDARK_FUTURE.NAME}`,
+          `Unable to get army book summaries for ${system.NAME}`,
           response.statusText
         );
         throw new Error(response.statusText);
@@ -59,7 +82,7 @@ const main = async () => {
       await Promise.all(
         summaries.map(async (summary) => {
           const url = `https://army-forge.onepagerules.com/api/army-books/${summary.uid}?gameSystem=${system.ID}`;
-          // const url = `https://army-forge.onepagerules.com/api/afs/book/${summary.uid}?gameSystem=${system.ID}`;
+          
           console.log(`Fetching ${summary.name} army book...`);
           const response = await fetch(url);
           if (response.status !== 200) {
