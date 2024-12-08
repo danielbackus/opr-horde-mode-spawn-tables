@@ -20,8 +20,7 @@ import {
 
 export const canAttach = (unit: Unit) =>
   Number(
-    unit.rules.find((rule) => rule.key === SPECIAL_RULE_KEYS.TOUGH)
-      ?.rating ?? 0
+    unit.rules.find((rule) => rule.key === SPECIAL_RULE_KEYS.TOUGH)?.rating ?? 0
   ) <= 6;
 
 export const isHero = (unit: Unit) =>
@@ -250,16 +249,8 @@ export const mapUnitToString = ({
   unit,
   hero,
 }: UnitWithAttachment & { isCombined?: boolean }) => {
-  const {
-    cost,
-    defense,
-    weapons,
-    isCombined,
-    name,
-    quality,
-    size,
-    rules,
-  } = unit;
+  const { cost, defense, weapons, isCombined, name, quality, size, rules } =
+    unit;
 
   return [
     ...(hero != null
@@ -355,8 +346,12 @@ export const populateTier = (candidates: Unit[], tier: Tier): PopulatedTier => {
 };
 
 export const mapPopulatedTierToString = ({ roll, units }: PopulatedTier) => {
+  const formattedTier =
+    roll.max >= 12
+      ? `\n## ${roll.min}+`
+      : `\n## ${roll.min} - ${roll.max}`;
   return [
-    `\n## ${roll.min} - ${roll.max}`,
+    formattedTier,
     "",
     ...(units.length > 0 ? units.map(mapUnitToString) : ["No units."]),
   ].join("\n");
@@ -409,14 +404,11 @@ export const getUnitUpgradeVariations = (
 
   return [
     ...baseVariations,
-    ...baseVariations.map(variation => {
+    ...baseVariations.map((variation) => {
       return {
         ...variation,
-        selectedUpgrades: [
-          ...variation.selectedUpgrades ?? [],
-
-        ]
+        selectedUpgrades: [...(variation.selectedUpgrades ?? [])],
       };
-    })
-  ]
+    }),
+  ];
 };

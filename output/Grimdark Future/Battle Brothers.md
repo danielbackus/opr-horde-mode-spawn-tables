@@ -6,7 +6,7 @@
 1. Master Brother [1] | Q3+ D3+ | 55 pts | Fearless, Hero, Tough(3) | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Elite Pathfinder [1] | Q4+ D4+ | 50 pts | Fearless, Hero, Strider, Tough(3) | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Master Destroyer [1] | Q3+ D3+ | 130 pts | Ambush, Fearless, Hero, Tough(6) | 1x CCW (A4)
 1. Pathfinders [5] | Q4+ D4+ | 110 pts | Fearless, Strider | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -26,7 +26,7 @@
 1. Pathfinders [10] | Q4+ D4+ | 220 pts | Fearless, Strider | 10x Heavy Pistol (12", A1, AP(1)), 10x CCW (A2)
 1. Veteran Battle Brothers [6] | Q3+ D3+ | 240 pts | Fearless, War Veteran | 6x Heavy Rifle (24", A1, AP(1)), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Brother Bikers [3] | Q3+ D3+ | 280 pts | Fast, Fearless, Tough(3) | 3x Twin Heavy Rifle (24", A2, AP(1)), 3x Heavy Pistol (12", A1, AP(1)), 3x CCW (A2)
 1. Artillery Gun [1] | Q3+ D2+ | 365 pts | Entrenched, Fearless, Repair, Slow, Tough(6) | 1x Heavy Gatling Cannon (24", A12, AP(1)), 1x Engineer Crew (A3, AP(2))
@@ -37,7 +37,7 @@
 1. Veteran Assault Brothers [6] | Q3+ D3+ | 270 pts | Fearless, War Veteran | 6x Heavy Pistol (12", A1, AP(1)), 6x Heavy CCW (A2, AP(1))
 1. Support Brothers [6] | Q3+ D3+ | 290 pts | Fearless, Relentless | 6x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Battle Tank [1] | Q3+ D2+ | 495 pts | Fast, Fearless, Impact(6), Tough(12) | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Twin Storm Cannon (30", A4, AP(2), Lock-On)
 1. Heavy Tank [1] | Q3+ D2+ | 775 pts | Fast, Fearless, Impact(9), Tough(18), Transport(11) | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Quad Flamer Cannon (18", A4, AP(1), Blast(3), Reliable)

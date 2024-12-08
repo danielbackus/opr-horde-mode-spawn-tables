@@ -4,15 +4,15 @@
 
 No units.
 
-## 5 - 7
+## 5 - 6
 
 No units.
 
-## 8 - 10
+## 7 - 9
 
 1. Errant Mini-Titan [1] | Q3+ D2+ | 350 pts | Fear(2), Fearless, Tough(12) | 2x 2x Mini-Titan Hammer (A2, AP(1), Blast(3)), 1x Stomp (A4, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Pilgrim Mini-Titan [1] | Q3+ D2+ | 460 pts | Fear(2), Fearless, Relentless, Tough(12) | 1x Fusion Blaster (24", A1, AP(4), Deadly(6)), 1x Mini-Titan Hammer (A2, AP(1), Blast(3)), 1x Stomp (A4, AP(1))
 1. Yeoman Mini-Titan [1] | Q3+ D2+ | 520 pts | Fear(2), Fearless, Tough(12) | 2x 2x Fusion Blaster (24", A1, AP(4), Deadly(6)), 1x Stomp (A4, AP(1))

@@ -7,7 +7,7 @@
 1. Change Cultist Champion [1] | Q5+ D5+ | 30 pts | Hero, Tough(3), Stealth | 1x Champion Pistol (12", A2), 1x CCW (A2)
 1. Change Birdman Champion [1] | Q4+ D5+ | 40 pts | Hero, Stealth, Tough(3) | 1x Pistol (12", A1), 1x Hexed Sword (A3, Warp)
 
-## 5 - 7
+## 5 - 6
 
 1. Change Destroyer Champion [1] | Q3+ D3+ | 155 pts | Ambush, Hero, Tough(6), Stealth | 1x Champion Heavy Rifle (24", A2, AP(1)), 1x CCW (A4)
 1. Cultists [10] | Q5+ D5+ | 130 pts | Stealth | 10x Rifle (24", A1), 10x CCW (A1)
@@ -23,7 +23,7 @@
 1. Change APC [1] | Q3+ D2+ | 225 pts | Fast, Impact(3), Tough(6), Transport(11), Stealth | 1x Storm Rifle (24", A3, AP(1))
 1. Mutated Change Cultists [20] | Q5+ D6+ | 230 pts | Mutations, Stealth | 20x Claws (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Greater Change Mutated [3] | Q3+ D4+ | 250 pts | Fast, Mutations, Tough(3), Stealth | 3x Heavy Claws (A4, AP(1))
 1. Change Infernal Brute [1] | Q3+ D2+ | 365 pts | Fear(2), Tough(12), Stealth | 2x 2x Brute Hammer (A2, Blast(3)), 1x Stomp (A4, AP(1))
@@ -36,7 +36,7 @@
 1. Mutated Change Brothers [10] | Q3+ D4+ | 320 pts | Fast, Mutations, Stealth | 10x Heavy Claws (A2, AP(1))
 1. Change Birdmen Disc Riders [6] | Q4+ D5+ | 290 pts | Fast, Stealth, Strider, Tough(3) | 6x Burst Pistol (12", A2), 6x CCW (A2)
 
-## 11 - 12
+## 10+
 
 1. Change Tank [1] | Q3+ D2+ | 580 pts | Fast, Impact(6), Tough(12), Stealth | 1x Twin Laser Cannon (36", A2, AP(3), Deadly(3)), 1x Twin Heavy Machinegun (30", A6, AP(1))
 1. Change Heavy Tank [1] | Q3+ D2+ | 965 pts | Fast, Impact(9), Tough(18), Transport(11), Stealth | 1x Quad Laser Cannon (36", A4, AP(3), Deadly(3)), 1x Twin Heavy Machinegun (30", A6, AP(1))

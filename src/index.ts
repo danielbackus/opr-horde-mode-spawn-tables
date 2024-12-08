@@ -9,11 +9,11 @@ import { buildSpawnTables } from "./utils";
 import { MOCK_ARMY_BOOK_RESPONSE, MOCK_ARMY_BOOK_SUMMARY_RESPONSE } from "./api/army-forge/mocks";
 
 const GAME_SYSTEMS = {
-  // GRIMDARK_FUTURE: {
-  //   ID: 2,
-  //   NAME: "Grimdark Future",
-  //   SLUG: "grimdark-future",
-  // },
+  GRIMDARK_FUTURE: {
+    ID: 2,
+    NAME: "Grimdark Future",
+    SLUG: "grimdark-future",
+  },
   AGE_OF_FANTASY: {
     ID: 4,
     NAME: "Age of Fantasy",
@@ -21,39 +21,39 @@ const GAME_SYSTEMS = {
   }
 };
 const TIERS_BY_GAME_SYSTEM = {
-  // [GAME_SYSTEMS.GRIMDARK_FUTURE.ID]: [
-  //   {
-  //     roll: { min: 3, max: 4 },
-  //     points: { min: 0, max: 100 },
-  //   },
-  //   {
-  //     roll: { min: 5, max: 7 },
-  //     points: { min: 105, max: 245 },
-  //   },
-  //   {
-  //     roll: { min: 8, max: 10 },
-  //     points: { min: 250, max: 395 },
-  //   },
-  //   {
-  //     roll: { min: 11, max: 12 },
-  //     points: { min: 400, max: Number.MAX_SAFE_INTEGER },
-  //   },
-  // ],
+  [GAME_SYSTEMS.GRIMDARK_FUTURE.ID]: [
+    {
+      roll: { min: 3, max: 4 },
+      points: { min: 0, max: 100 },
+    },
+    {
+      roll: { min: 5, max: 6 },
+      points: { min: 105, max: 245 },
+    },
+    {
+      roll: { min: 7, max: 9 },
+      points: { min: 250, max: 395 },
+    },
+    {
+      roll: { min: 10, max: Number.MAX_SAFE_INTEGER },
+      points: { min: 400, max: Number.MAX_SAFE_INTEGER },
+    },
+  ],
   [GAME_SYSTEMS.AGE_OF_FANTASY.ID]: [
     {
       roll: { min: 3, max: 4 },
       points: { min: 0, max: 100 },
     },
     {
-      roll: { min: 5, max: 7 },
+      roll: { min: 5, max: 6 },
       points: { min: 105, max: 245 },
     },
     {
-      roll: { min: 8, max: 10 },
+      roll: { min: 7, max: 9 },
       points: { min: 250, max: 395 },
     },
     {
-      roll: { min: 11, max: 12 },
+      roll: { min: 10, max: Number.MAX_SAFE_INTEGER },
       points: { min: 400, max: Number.MAX_SAFE_INTEGER },
     },
   ],

@@ -13,7 +13,7 @@
 1. Shadow Hounds [5] | Q5+ D5+ | 70 pts | Fast, Shadowborn, Stealth, Strider | 5x Claws (A2)
 1. Fang Swarms [3] | Q6+ D6+ | 95 pts | Ensnare, Shadowborn, Stealth, Tough(3) | 3x Swarm Attacks (A3, Rending)
 
-## 5 - 7
+## 5 - 6
 
 1. Butcher Champion [1] | Q3+ D3+ | 180 pts | Devour, Fear(1), Hero, Shadowborn, Stealth, Tough(6) | 1x Butcher Blade (A6, AP(1), Rending)
 1. Reapers [5] | Q3+ D4+ | 155 pts | Headtaker, Shadowborn, Stealth | 5x Halberd (A2, Rending)
@@ -30,14 +30,14 @@
 1. Shadow Hounds [10] | Q5+ D5+ | 140 pts | Fast, Shadowborn, Stealth, Strider | 10x Claws (A2)
 1. Fang Swarms [6] | Q6+ D6+ | 190 pts | Ensnare, Shadowborn, Stealth, Tough(3) | 6x Swarm Attacks (A3, Rending)
 
-## 8 - 10
+## 7 - 9
 
 1. Butchers [3] | Q3+ D3+ | 250 pts | Devour, Shadowborn, Stealth, Tough(3) | 3x Butcher Blade (A3, AP(1), Rending)
 1. Terror Beast [1] | Q4+ D3+ | 380 pts | Fear(2), Protected, Shadowborn, Stealth, Strider, Tough(12) | 1x Heavy Claws (A8, AP(2)), 1x Stomp (A4, AP(1))
 1. Blind Behemoth [1] | Q3+ D3+ | 390 pts | Fear(2), Sense Magic, Shadowborn, Stealth, Tough(12) | 1x Great Flail (A3, AP(1), Blast(3)), 1x Stomp (A4, AP(1))
 1. Reapers [10] | Q3+ D4+ | 310 pts | Headtaker, Shadowborn, Stealth | 10x Halberd (A2, Rending)
 
-## 11 - 12
+## 10+
 
 1. Great Terror Beast [1] | Q4+ D3+ | 565 pts | Fear(2), Shadowborn, Stealth, Strider, Tough(18) | 1x Great Claws (A8, AP(4)), 1x Stalker Crew (A6, Reliable), 1x Stomp (A6, AP(2))
 1. Ascended Fiend [1] | Q2+ D2+ | 600 pts | Ambush, Ensnare, Fear(2), Shadowborn, Stealth, Tough(12) | 1x Rending Claws (A8, Rending), 1x Stomp (A4, AP(1))

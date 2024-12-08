@@ -12,7 +12,7 @@
 1. Hunting Beasts [5] | Q4+ D5+ | 85 pts | Fast, Strider, Undead | 5x Claws (A2)
 1. Scarab Swarms [3] | Q6+ D6+ | 70 pts | Ambush, Strider, Tough(3), Undead | 3x Swarm Attacks (A3, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. Guardian Statues [3] | Q3+ D4+ | 195 pts | Tough(3), Undead | 3x Dual Heavy Hand Weapons (A4, AP(1))
 1. Beast Riders [5] | Q4+ D4+ | 115 pts | Fast, Undead | 5x Heavy Claws (A1, AP(2)), 5x Heavy Hand Weapon (A1, AP(1))
@@ -33,7 +33,7 @@
 1. Hunting Beasts [10] | Q4+ D5+ | 170 pts | Fast, Strider, Undead | 10x Claws (A2)
 1. Scarab Swarms [6] | Q6+ D6+ | 140 pts | Ambush, Strider, Tough(3), Undead | 6x Swarm Attacks (A3, Poison)
 
-## 8 - 10
+## 7 - 9
 
 1. Skeleton Giant [1] | Q4+ D3+ | 250 pts | Fear(2), Tough(12), Undead | 1x Dual Hand Weapons (A10), 1x Stomp (A4, AP(1))
 1. War Sphinx [1] | Q4+ D2+ | 315 pts | Fear(2), Tough(12), Undead | 1x Sphinx Crew (A8, Rending), 1x Stomp (A4, AP(1))
@@ -44,7 +44,7 @@
 1. Snake Riders [6] | Q4+ D4+ | 350 pts | Fast, Impact(2), Tough(3), Undead | 6x Skeleton Spear Rider (A1, Lance), 6x Snake Fangs (A1, Poison)
 1. Vultures [6] | Q4+ D5+ | 310 pts | Flying, Tough(3), Undead | 6x Sharp Beak (A3, Rending)
 
-## 11 - 12
+## 10+
 
 1. Desert Titan [1] | Q2+ D2+ | 910 pts | Fear(4), Tough(24), Undead | 1x Stomp (A8, AP(2)), 1x Titan Strike (A12, AP(1))
 1. Snakemen [6] | Q3+ D3+ | 440 pts | Fast, Impact(2), Tough(3), Undead | 6x Halberd (A2, Rending)

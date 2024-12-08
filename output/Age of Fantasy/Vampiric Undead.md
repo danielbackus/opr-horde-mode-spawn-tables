@@ -13,7 +13,7 @@
 1. Drained Archers [5] | Q5+ D5+ | 70 pts | Undead | 5x Bow (24", A1), 5x Hand Weapon (A1)
 1. Zombie Wolves [5] | Q5+ D5+ | 75 pts | Fast, Furious, Scout, Undead | 5x Vicious Bites (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Werewolf Champion [1] | Q3+ D4+ | 140 pts | Hero, Scout, Strider, Tough(6), Undead | 2x 2x Razor Blades (A3, Reliable)
 1. Skeleton Watch [5] | Q4+ D4+ | 130 pts | Protected, Undead | 5x Crossbow (24", A1, Rending), 5x Hand Weapon (A1)
@@ -39,7 +39,7 @@
 1. Zombie Wolves [10] | Q5+ D5+ | 150 pts | Fast, Furious, Scout, Undead | 10x Vicious Bites (A2)
 1. Skeleton Knights [10] | Q4+ D4+ | 220 pts | Fast, Impact(1), Protected, Undead | 10x Lance (A1, Lance)
 
-## 8 - 10
+## 7 - 9
 
 1. Bat Dragon [1] | Q3+ D3+ | 325 pts | Fear(2), Furious, Flying, Tough(12), Undead | 1x Deadly Fangs (A8, Reap), 1x Stomp (A4, AP(1))
 1. Zombie Dragon [1] | Q4+ D3+ | 340 pts | Breath Attack, Fear(2), Flying, Regeneration, Tough(12), Undead | 1x Heavy Claws (A6, AP(1)), 1x Stomp (A4, AP(1))
@@ -51,7 +51,7 @@
 1. Stitched Butchers [6] | Q4+ D4+ | 280 pts | Devour, Slow, Tough(3), Undead | 6x Slicing Blade (A3, AP(1))
 1. Ghoul Horrors [6] | Q4+ D4+ | 360 pts | Regeneration, Strider, Tough(3), Undead | 6x Toxin Claws (A3, Poison)
 
-## 11 - 12
+## 10+
 
 1. Butcher Titan [1] | Q3+ D2+ | 545 pts | Fear(3), Slow, Tough(18), Undead | 1x Stomp (A6, AP(2)), 1x Titan Cleaver (A12, AP(1), Rending)
 1. Bat Horrors [6] | Q3+ D4+ | 420 pts | Ambush, Flying, Furious, Tough(3), Undead | 6x Deadly Fangs (A3, Reap)

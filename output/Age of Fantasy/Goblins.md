@@ -19,7 +19,7 @@
 1. Shooters [10] | Q5+ D6+ | 90 pts |  | 10x Shortbow (18", A1), 10x Hand Weapon (A1)
 1. Beast Riders [10] | Q5+ D5+ | 80 pts | Fast | 10x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Shaman Circle [5] | Q5+ D6+ | 175 pts | Shaman Circle | 5x Magic Staff (12", A2, Rending), 5x Hand Weapon (A1)
 1. Trolls [3] | Q4+ D4+ | 155 pts | Regeneration, Tough(3) | 3x Heavy Hand Weapon (A3, AP(1))
@@ -30,7 +30,7 @@
 1. Shroom-Sniffers [10] | Q5+ D6+ | 120 pts | Furious, Power Shrooms | 10x Hand Weapon (A1, Poison)
 1. Fanatics [6] | Q5+ D6+ | 160 pts | Boing, Destructive | 6x Ball & Chain (A1, AP(1))
 
-## 8 - 10
+## 7 - 9
 
 1. Giant Cave-Beast [1] | Q4+ D3+ | 265 pts | Boing, Fear(2), Tough(12) | 1x Giant Jaws (A8, Rending), 1x Stomp (A4, AP(1))
 1. Giant Spider [1] | Q4+ D3+ | 255 pts | Fear(2), Strider, Tough(12) | 1x Shortbow Crew (18", A6), 1x Stomp (A4, AP(1)), 1x Toxic Fangs (A6, Poison)
@@ -38,6 +38,6 @@
 1. Shaman Circle [10] | Q5+ D6+ | 350 pts | Shaman Circle | 10x Magic Staff (12", A2, Rending), 10x Hand Weapon (A1)
 1. Trolls [6] | Q4+ D4+ | 310 pts | Regeneration, Tough(3) | 6x Heavy Hand Weapon (A3, AP(1))
 
-## 11 - 12
+## 10+
 
 No units.

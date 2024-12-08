@@ -5,7 +5,7 @@
 1. Veteran Knight Master Brother [1] | Q3+ D3+ | 75 pts | Fearless, Hero, Tough(3), War Veteran, Aegis | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Knight Master Brother [1] | Q3+ D3+ | 65 pts | Fearless, Hero, Tough(3), Aegis | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Knight Champion [1] | Q3+ D3+ | 175 pts | Aegis, Combat Master, Fearless, Hero, Caster(2), Tough(3) | 1x Storm Rifle (24", A3, AP(1)), 1x Relic Blade (A4, AP(1))
 1. Knight Master Destroyer [1] | Q3+ D3+ | 150 pts | Ambush, Fearless, Hero, Tough(6), Aegis | 1x CCW (A4)
@@ -14,7 +14,7 @@
 1. Knight APC [1] | Q3+ D2+ | 230 pts | Fast, Fearless, Impact(3), Tough(6), Transport(11), Aegis | 1x Storm Rifle (24", A3, AP(1))
 1. Knight Attack APC [1] | Q3+ D2+ | 230 pts | Fast, Fearless, Impact(3), Tough(6), Transport(6), Aegis | 1x Twin Heavy Flamer (12", A2, AP(1), Blast(3), Reliable)
 
-## 8 - 10
+## 7 - 9
 
 1. Knight Battle Brothers [5] | Q3+ D3+ | 255 pts | Aegis, Fearless, Regeneration | 5x Assault Storm Rifle (24", A2, AP(1)), 5x CCW (A1)
 1. Knight Destroyers [3] | Q3+ D3+ | 335 pts | Aegis, Ambush, Fearless, Tough(3) | 3x Storm Rifle (24", A3, AP(1)), 3x CCW (A2)
@@ -22,7 +22,7 @@
 1. Veteran Knight Battle Brothers [6] | Q3+ D3+ | 320 pts | Aegis, Fearless, Regeneration, War Veteran | 6x Incinerator (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 1. Knight Purgation Brothers [6] | Q3+ D3+ | 340 pts | Aegis, Fearless, Relentless | 6x Incinerator (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A2)
 
-## 11 - 12
+## 10+
 
 1. Knight Heavy Tank [1] | Q3+ D2+ | 850 pts | Fast, Fearless, Impact(9), Tough(18), Transport(11), Aegis | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Quad Flamer Cannon (18", A4, AP(1), Blast(3), Reliable)
 1. Knight Attack Walker [1] | Q3+ D2+ | 435 pts | Fear(2), Fearless, Tough(12), Aegis | 1x Twin Heavy Flamer (12", A2, AP(1), Blast(3), Reliable), 1x Stomp (A4, AP(1)), 1x Walker Fist (A4, AP(4))

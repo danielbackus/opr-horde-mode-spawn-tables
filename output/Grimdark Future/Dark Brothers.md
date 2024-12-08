@@ -6,7 +6,7 @@
 1. Dark Master Brother [1] | Q3+ D3+ | 60 pts | Hero, Tough(3), Grim | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Dark Elite Pathfinder [1] | Q4+ D4+ | 50 pts | Hero, Strider, Tough(3), Grim | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Dark Master Destroyer [1] | Q3+ D3+ | 140 pts | Hero, Tough(6), Grim, Dark Assault | 1x CCW (A4)
 1. Dark Pathfinders [5] | Q4+ D4+ | 110 pts | Strider, Grim | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -25,7 +25,7 @@
 1. Dark Heavy Exo-Suit [1] | Q3+ D2+ | 170 pts | Fear(1), Tough(6), Grim | 1x Twin Flamer (12", A2, Blast(3), Reliable), 1x Stomp (A2, AP(1))
 1. Dark Pathfinders [10] | Q4+ D4+ | 220 pts | Strider, Grim | 10x Heavy Pistol (12", A1, AP(1)), 10x CCW (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Dark Brother Bikers [3] | Q3+ D3+ | 290 pts | Fast, Tough(3), Grim | 3x Twin Heavy Rifle (24", A2, AP(1)), 3x Heavy Pistol (12", A1, AP(1)), 3x CCW (A2)
 1. Dark Artillery Gun [1] | Q3+ D2+ | 370 pts | Entrenched, Repair, Slow, Tough(6), Grim | 1x Heavy Gatling Cannon (24", A12, AP(1)), 1x Engineer Crew (A3, AP(2))
@@ -37,7 +37,7 @@
 1. Veteran Dark Assault Brothers [6] | Q3+ D3+ | 270 pts | War Veteran, Grim | 6x Heavy Pistol (12", A1, AP(1)), 6x Heavy CCW (A2, AP(1))
 1. Dark Support Brothers [6] | Q3+ D3+ | 300 pts | Relentless, Grim | 6x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Dark Battle Tank [1] | Q3+ D2+ | 510 pts | Fast, Impact(6), Tough(12), Grim | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Twin Storm Cannon (30", A4, AP(2), Lock-On)
 1. Dark Heavy Tank [1] | Q3+ D2+ | 795 pts | Fast, Impact(9), Tough(18), Transport(11), Grim | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Quad Flamer Cannon (18", A4, AP(1), Blast(3), Reliable)

@@ -6,7 +6,7 @@
 1. Lust Champion [1] | Q3+ D3+ | 60 pts | Hero, Tough(3), Fast | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Lust Cultist Champion [1] | Q5+ D5+ | 30 pts | Hero, Tough(3), Fast | 1x Champion Pistol (12", A2), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Lust Destroyer Champion [1] | Q3+ D3+ | 150 pts | Ambush, Hero, Tough(6), Fast | 1x Champion Heavy Rifle (24", A2, AP(1)), 1x CCW (A4)
 1. Lust Cultists [10] | Q5+ D5+ | 130 pts | Fast | 10x Rifle (24", A1), 10x CCW (A1)
@@ -22,7 +22,7 @@
 1. Lust Dragon [1] | Q3+ D2+ | 245 pts | Aircraft, Regeneration, Tough(6) | 1x Forge Flamethrower (18", A2, AP(1), Blast(3), Reliable)
 1. Mutated Lust Cultists [20] | Q5+ D6+ | 230 pts | Mutations, Fast | 20x Claws (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Greater Lust Mutated [3] | Q3+ D4+ | 250 pts | Mutations, Tough(3), Very Fast | 3x Heavy Claws (A4, AP(1))
 1. Lust Bikers [3] | Q3+ D3+ | 290 pts | Tough(3), Very Fast | 3x Twin Heavy Rifle (24", A2, AP(1)), 3x Heavy Pistol (12", A1, AP(1)), 3x CCW (A2)
@@ -34,7 +34,7 @@
 1. Lust Support [6] | Q3+ D3+ | 300 pts | Relentless, Fast | 6x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 1. Mutated Lust Brothers [10] | Q3+ D4+ | 330 pts | Mutations, Very Fast | 10x Heavy Claws (A2, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Lust Tank [1] | Q3+ D2+ | 550 pts | Impact(6), Tough(12), Very Fast | 1x Twin Laser Cannon (36", A2, AP(3), Deadly(3)), 1x Twin Heavy Machinegun (30", A6, AP(1))
 1. Lust Heavy Tank [1] | Q3+ D2+ | 910 pts | Impact(9), Tough(18), Transport(11), Very Fast | 1x Quad Laser Cannon (36", A4, AP(3), Deadly(3)), 1x Twin Heavy Machinegun (30", A6, AP(1))

@@ -15,7 +15,7 @@
 1. Ratmen Artillery [1] | Q5+ D5+ | 60 pts | Entrenched, Immobile, Tough(3) | 1x Heavy Gatling Gun (18", A6, AP(1)), 1x Crew (A3)
 1. Militia [20] | Q6+ D6+ | 90 pts |  | 20x Sling (12", A1), 20x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Weapon Teams [3] | Q5+ D5+ | 105 pts | Tough(3) | 3x Crew (A1), 3x Heavy Drill (A1, AP(4), Deadly(3))
 1. Snipers [3] | Q5+ D4+ | 115 pts | Slow | 3x Sniper Rifle (30", A1, AP(1), Sniper), 3x Hand Weapon (A1)
@@ -33,12 +33,12 @@
 1. Giant Rats [10] | Q5+ D5+ | 110 pts | Fast, Strider | 10x Rending Claws (A1, Rending)
 1. Rat Swarms [6] | Q6+ D6+ | 130 pts | Ambush, Fast, Furious, Strider, Tough(3) | 6x Swarm Attacks (A4)
 
-## 8 - 10
+## 7 - 9
 
 1. Giant Beast [1] | Q4+ D3+ | 265 pts | Fear(2), Regeneration, Tough(12) | 1x Claw (A10), 1x Stomp (A4, AP(1))
 1. Rat Ogres [6] | Q4+ D4+ | 310 pts | Furious, Tough(3) | 6x Rending Claws (A3, Rending)
 
-## 11 - 12
+## 10+
 
 1. Giant Blessed Beast [1] | Q3+ D3+ | 505 pts | Caster(2), Fear(3), Fearless, Tough(18) | 1x Giant Claws (A12, AP(1)), 1x Stomp (A6, AP(2))
 1. God-Titan [1] | Q2+ D2+ | 740 pts | Caster(4), Fear(3), Strider, Tough(18) | 1x Heavy Strike (A12, Rending), 1x Stomp (A6, AP(2))

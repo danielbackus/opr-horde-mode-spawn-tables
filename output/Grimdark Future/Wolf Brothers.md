@@ -6,7 +6,7 @@
 1. Wolf Master Brother [1] | Q3+ D3+ | 60 pts | Fearless, Hero, Tough(3), Counter-Attack | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Wolf Elite Pathfinder [1] | Q4+ D4+ | 55 pts | Fearless, Hero, Strider, Tough(3), Counter-Attack | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Wolf Master Destroyer [1] | Q3+ D3+ | 140 pts | Ambush, Fearless, Hero, Tough(6), Counter-Attack | 1x CCW (A4)
 1. Wolf Pathfinders [5] | Q4+ D4+ | 125 pts | Fearless, Strider, Counter-Attack | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -25,7 +25,7 @@
 1. Wolf Attack Speeder [1] | Q3+ D2+ | 215 pts | Ambush, Fast, Fearless, Impact(3), Strider, Tough(6) | 2x 2x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable)
 1. Wolf Heavy Exo-Suit [1] | Q3+ D2+ | 170 pts | Fear(1), Fearless, Tough(6), Counter-Attack | 1x Twin Flamer (12", A2, Blast(3), Reliable), 1x Stomp (A2, AP(1))
 
-## 8 - 10
+## 7 - 9
 
 1. Wolf Riders [3] | Q3+ D3+ | 280 pts | Counter-Attack, Fast, Fearless, Strider, Tough(3) | 3x Heavy Pistol (12", A1, AP(1)), 3x CCW (A2), 3x Heavy Claws (A2, AP(1))
 1. Wolf Brother Bikers [3] | Q3+ D3+ | 295 pts | Fast, Fearless, Tough(3), Counter-Attack | 3x Twin Heavy Rifle (24", A2, AP(1)), 3x Heavy Pistol (12", A1, AP(1)), 3x CCW (A2)
@@ -39,7 +39,7 @@
 1. Wolf Support Brothers [6] | Q3+ D3+ | 310 pts | Fearless, Relentless, Counter-Attack | 6x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 1. Hunting Wolves [10] | Q4+ D4+ | 260 pts | Counter-Attack, Fast, Strider | 10x Vicious Bites (A2, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Wolf Battle Tank [1] | Q3+ D2+ | 495 pts | Fast, Fearless, Impact(6), Tough(12) | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Twin Storm Cannon (30", A4, AP(2), Lock-On)
 1. Wolf Heavy Tank [1] | Q3+ D2+ | 775 pts | Fast, Fearless, Impact(9), Tough(18), Transport(11) | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Quad Flamer Cannon (18", A4, AP(1), Blast(3), Reliable)

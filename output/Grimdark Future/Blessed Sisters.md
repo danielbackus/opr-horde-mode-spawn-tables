@@ -11,7 +11,7 @@
 1. Celestial Warrior Sisters [3] | Q4+ D4+ | 85 pts | Celestial Veteran, Devout | 3x Heavy Rifle (24", A1, AP(1)), 3x CCW (A1)
 1. Exo-Suit [1] | Q4+ D3+ | 100 pts | Devout, Fear(1), Tough(6) | 1x Energy Mace (A1, AP(2), Blast(3)), 1x Stomp (A2, AP(1))
 
-## 5 - 7
+## 5 - 6
 
 1. Exo-Suit High Sister [1] | Q4+ D3+ | 190 pts | Devout, Fear(2), Hero, Tough(9) | 1x Great Energy Sword (A6, AP(2), Rending), 1x Stomp (A3, AP(1))
 1. Novice Sisters [10] | Q5+ D5+ | 110 pts | Devout, Furious | 10x Dual CCWs (A2)
@@ -31,7 +31,7 @@
 1. Warrior Sisters [10] | Q4+ D4+ | 230 pts | Devout | 10x Heavy Rifle (24", A1, AP(1)), 10x CCW (A1)
 1. Celestial Warrior Sisters [6] | Q4+ D4+ | 170 pts | Celestial Veteran, Devout | 6x Heavy Rifle (24", A1, AP(1)), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Infernal APC [1] | Q4+ D2+ | 290 pts | Devout, Fast, Impact(3), Tough(9), Transport(6) | 1x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 1x Twin Heavy Flamer (12", A2, AP(1), Blast(3), Reliable)
 1. Organ Tank [1] | Q4+ D2+ | 385 pts | Devout, Fast, Impact(3), Tough(9) | 1x Organ Heavy Missile (30", A3, AP(2), Deadly(3), Lock-On), 1x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable)
@@ -46,7 +46,7 @@
 1. Destroyer Sisters [6] | Q4+ D4+ | 270 pts | Ambush, Devout, Tough(3) | 6x CCW (A3)
 1. Biker Fanatics [6] | Q5+ D5+ | 390 pts | Devout, Fast, Fearless, Furious, Tough(3) | 6x Twin Heavy Rifle (24", A2, AP(1)), 6x Heavy Chainsaw Sword (A4, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Battle Tank [1] | Q4+ D2+ | 415 pts | Devout, Fast, Impact(6), Tough(12) | 1x Battle Cannon (30", A2, AP(2), Blast(3)), 2x 2x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable)
 1. Blessed Titan [1] | Q3+ D2+ | 905 pts | Devout, Fear(4), Fearless, Tough(24) | 2x 2x Hull-Flamer (12", A1, AP(1), Blast(3), Reliable), 1x Stomp (A8, AP(2)), 2x 2x Titan Claw (A12, AP(1))

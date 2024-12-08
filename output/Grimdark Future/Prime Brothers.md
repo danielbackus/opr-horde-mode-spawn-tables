@@ -6,7 +6,7 @@
 1. Prime Master [1] | Q3+ D2+ | 65 pts | Fearless, Hero, Tough(3) | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Elite Raider [1] | Q4+ D3+ | 55 pts | Fearless, Furious, Hero, Strider, Tough(3) | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Grave Prime Master [1] | Q3+ D2+ | 195 pts | Fearless, Hero, Tough(6) | 1x Energy Greatsword (A8, AP(1), Rending)
 1. Raider Squad [5] | Q4+ D3+ | 125 pts | Fearless, Furious, Strider | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -23,7 +23,7 @@
 1. Veteran Prime Brothers [6] | Q3+ D2+ | 210 pts | Fearless, War Veteran | 6x Precision Rifle (24", A1, Reliable), 6x CCW (A1)
 1. Infernal Squad [6] | Q3+ D2+ | 240 pts | Fearless, Relentless | 6x Flamer (12", A1, Blast(3), Reliable), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Guard Squad [3] | Q3+ D2+ | 315 pts | Fearless, Heavy Shield, Tough(3), War Veteran | 3x Heavy Pistol (12", A1, AP(1)), 3x Relic Sword (A1, AP(2), Deadly(3))
 1. Eradication Squad [3] | Q3+ D2+ | 260 pts | Fearless, Tough(3) | 3x Fusion Rifle (12", A1, AP(4), Deadly(3)), 3x CCW (A1)
@@ -43,7 +43,7 @@
 1. Veteran Assault Squad [6] | Q3+ D2+ | 280 pts | Fearless, War Veteran | 6x Heavy Pistol (12", A1, AP(1)), 6x Heavy CCW (A2, AP(1))
 1. Elimination Squad [6] | Q3+ D3+ | 310 pts | Fearless, Scout, Stealth | 6x Sniper Rifle (30", A1, AP(1), Sniper), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Anti-Grav Tank [1] | Q3+ D2+ | 480 pts | Fast, Fearless, Impact(6), Strider, Tough(15) | 1x Twin Frag-GL (18", A2, Blast(3)), 1x Twin Light Gatling Gun (18", A8)
 1. Heavy Anti-Grav Transport Tank [1] | Q3+ D2+ | 720 pts | Fast, Fearless, Impact(9), Strider, Tough(18), Transport(11) | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Heavy Gatling Gun (18", A8), 1x Proximity Defense Array (18", A3, AP(1), Lock-On)

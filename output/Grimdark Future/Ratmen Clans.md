@@ -9,7 +9,7 @@
 1. Rat Swarms [3] | Q6+ D6+ | 40 pts | Strider, Tough(3) | 3x Swarm Attacks (A3, Poison)
 1. Rat Swarms [6] | Q6+ D6+ | 80 pts | Strider, Tough(3) | 6x Swarm Attacks (A3, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. Great Mother [1] | Q3+ D3+ | 160 pts | Hero, Scurry Away, Tough(6) | 1x Combat Staff (A6, AP(1))
 1. Stalkers [10] | Q5+ D5+ | 115 pts |  | 10x Pistol (12", A1), 10x CCW (A2)
@@ -23,13 +23,13 @@
 1. Saboteurs [10] | Q5+ D5+ | 150 pts | Scout, Stealth, Strider | 10x Pistol (12", A1), 10x CCW (A2)
 1. Specialists [6] | Q5+ D5+ | 150 pts | Relentless | 6x Plasma Rifle (24", A1, AP(4)), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Abomination [1] | Q4+ D2+ | 365 pts | Fear(2), Fearless, Regeneration, Tough(12) | 1x Heavy Claws (A12, AP(1)), 1x Stomp (A4, AP(1))
 1. Crawlers [20] | Q5+ D5+ | 290 pts |  | 20x Carbine (18", A2), 20x CCW (A1)
 1. Elites [10] | Q4+ D4+ | 290 pts | Fearless | 10x Heavy Carbine (18", A2, AP(1)), 10x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Drill Tank [1] | Q4+ D2+ | 435 pts | Ambush, Fast, Impact(6), Tough(12), Transport(11) | 1x Twin Rocket Launcher (18", A2, AP(2), Deadly(3)), 1x Tunneling Drill (A8, AP(4))
 1. Rat Ogres [6] | Q4+ D3+ | 430 pts | Furious, Tough(3) | 6x Twin Combat Drills (A4, AP(1), Rending)

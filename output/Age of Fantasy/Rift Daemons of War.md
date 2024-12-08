@@ -5,7 +5,7 @@
 1. Champion of War [1] | Q4+ D4+ | 55 pts | Daemon, Furious, Hero, Tough(3) | 1x Axe (A1, AP(1)), 1x Flame Hammer (A1, AP(1), Blast(3))
 1. Blood Warriors [5] | Q4+ D4+ | 75 pts | Daemon, Furious | 5x Hand Weapon (A1, AP(1))
 
-## 5 - 7
+## 5 - 6
 
 1. Harbinger of War [1] | Q3+ D3+ | 160 pts | Daemon, Fear(1), Furious, Hero, Tough(6) | 2x 2x Flame Hammer (A1, AP(1), Blast(3)), 1x Stomp (A2, AP(1))
 1. Tri-Hound Champion [1] | Q3+ D4+ | 155 pts | Daemon, Fast, Fear(1), Furious, Hero, Tough(6) | 1x Frenzied Bites (A6, AP(1))
@@ -17,11 +17,11 @@
 1. War Furies [10] | Q5+ D5+ | 210 pts | Daemon, Flying, Furious | 10x Armblades (A2, AP(2))
 1. Blood Warriors [10] | Q4+ D4+ | 150 pts | Daemon, Furious | 10x Hand Weapon (A1, AP(1))
 
-## 8 - 10
+## 7 - 9
 
 1. Blood Hounds [10] | Q3+ D4+ | 300 pts | Daemon, Fast, Furious | 10x Claws (A2, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Avatar of War [1] | Q2+ D2+ | 855 pts | Daemon, Fear(3), Flying, Furious, Hero, Tough(18) | 2x 2x Exalted Flame Hammer (A3, AP(1), Blast(3)), 1x Stomp (A6, AP(2))
 1. Ascended Harbinger of War [1] | Q2+ D2+ | 485 pts | Daemon, Fear(2), Furious, Hero, Tough(12) | 2x 2x Great Flame Hammer (A2, AP(1), Blast(3)), 1x Stomp (A4, AP(1))

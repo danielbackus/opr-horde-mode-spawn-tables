@@ -11,7 +11,7 @@
 1. War Hounds [5] | Q4+ D5+ | 90 pts | Fast, Strider, Frenzy | 5x Rending Claws (A1, Rending)
 1. War Barbarian Horsemen [5] | Q5+ D5+ | 80 pts | Fast, Impact(1), Frenzy | 5x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. War Gore Reavers [10] | Q5+ D5+ | 110 pts | Furious | 10x Great Weapon (A1, AP(2))
 1. Chosen War Warriors [5] | Q3+ D3+ | 105 pts | Chosen Veteran, Furious | 5x Heavy Hand Weapon (A1, AP(1))
@@ -32,13 +32,13 @@
 1. War Hounds [10] | Q4+ D5+ | 180 pts | Fast, Strider, Frenzy | 10x Rending Claws (A1, Rending)
 1. War Barbarian Horsemen [10] | Q5+ D5+ | 160 pts | Fast, Impact(1), Frenzy | 10x Hand Weapon (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. War Shrine [1] | Q4+ D3+ | 305 pts | Dark Blessing, Fear(2), Tough(12), Furious | 1x Giant Fists (A8, AP(2)), 1x Stomp (A4, AP(1))
 1. War Death-Mongers [6] | Q3+ D4+ | 360 pts | Furious, Impact(2), Tough(3) | 6x Dual Flail-Hammers (A2, AP(2))
 1. War Knights [10] | Q3+ D3+ | 250 pts | Fast, Impact(1), Furious | 10x Heavy Hand Weapon (A1, AP(1))
 
-## 11 - 12
+## 10+
 
 1. War Death-Reapers [6] | Q3+ D4+ | 460 pts | Frenzy, Tough(3) | 6x Dual Hexed Weapons (A4, Rending)
 1. War Beast Knights [6] | Q3+ D3+ | 400 pts | Fast, Furious, Impact(2), Tough(3) | 6x Heavy Claws (A1, AP(1)), 6x Heavy Hand Weapon (A1, AP(1))

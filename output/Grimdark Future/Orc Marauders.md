@@ -9,7 +9,7 @@
 1. Goblin Herd [10] | Q6+ D6+ | 70 pts | Good Shot | 10x Pistol (12", A1), 10x CCW (A1)
 1. Specialist Orcs [3] | Q4+ D5+ | 100 pts | Bad Shot, Furious, Shooty | 3x Flamer (12", A1, Blast(3), Reliable), 3x CCW (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Orc Mob [10] | Q4+ D5+ | 165 pts | Bad Shot, Furious | 10x Pistol (12", A1), 10x CCW (A2)
 1. Jetpack Orcs [5] | Q4+ D5+ | 105 pts | Ambush, Bad Shot, Flying, Furious | 5x Pistol (12", A1), 5x CCW (A2)
@@ -35,7 +35,7 @@
 1. Boss Mob [10] | Q3+ D4+ | 210 pts | Bad Shot, Furious | 10x Pistol (12", A1), 10x CCW (A2)
 1. Specialist Orcs [6] | Q4+ D5+ | 200 pts | Bad Shot, Furious, Shooty | 6x Flamer (12", A1, Blast(3), Reliable), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Looted Tank [1] | Q4+ D2+ | 355 pts | Fast, Impact(6), Tough(12) | 3x 3x Rocket Launcher (18", A1, AP(2), Deadly(3))
 1. Orc Combat Walker [1] | Q4+ D2+ | 335 pts | Fear(2), Furious, Tough(12) | 1x Stomp (A4, AP(1)), 4x 4x Walker Claw (A2, AP(4))
@@ -47,7 +47,7 @@
 1. Orc Bikers [6] | Q4+ D5+ | 380 pts | Bad Shot, Fast, Furious, Shooty, Tough(3) | 6x Twin Mini-MG (18", A3, AP(1)), 6x Pistol (12", A1), 6x CCW (A2)
 1. Goblin Artillery [6] | Q5+ D3+ | 350 pts | Good Shot, Slow, Tough(3) | 6x Bubble Cannon (30", A1, Blast(3), Rending), 6x Goblin Crew (A2)
 
-## 11 - 12
+## 10+
 
 1. Battle Rig [1] | Q4+ D2+ | 535 pts | Fast, Impact(9), Tough(18), Transport(11) | 3x 3x Rocket Launcher (18", A1, AP(2), Deadly(3))
 1. Orc Ranged Walker [1] | Q4+ D2+ | 425 pts | Fear(2), Furious, Shooty, Tough(12) | 2x 2x Rapid Heavy Flamer (12", A2, AP(1), Blast(3), Reliable), 1x Stomp (A4, AP(1)), 2x 2x Walker Claw (A2, AP(4))

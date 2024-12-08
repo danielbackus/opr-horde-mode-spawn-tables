@@ -11,7 +11,7 @@
 1. Snake Swarms [3] | Q6+ D6+ | 65 pts | Ambush, Fearless, Strider, Tough(3) | 3x Swarm Attacks (A3, Poison)
 1. Geckos [10] | Q5+ D5+ | 90 pts | Fearless, Strider | 10x Hand Weapon (A1, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. Gator Veteran [1] | Q4+ D3+ | 125 pts | Fear(1), Fearless, Hero, Predator, Tough(6) | 1x Heavy Great Weapon (A4, AP(4))
 1. Saurian Warriors [10] | Q4+ D4+ | 115 pts | Fearless, Predator | 10x Hand Weapon (A1)
@@ -29,7 +29,7 @@
 1. Raptor Riders [10] | Q4+ D4+ | 220 pts | Devour, Fast, Fearless, Impact(1), Predator | 10x Hand Weapon (A1)
 1. Snake Swarms [6] | Q6+ D6+ | 130 pts | Ambush, Fearless, Strider, Tough(3) | 6x Swarm Attacks (A3, Poison)
 
-## 8 - 10
+## 7 - 9
 
 1. Frog-Mage [1] | Q2+ D2+ | 255 pts | Caster(3), Fear(1), Hero, Strider, Tough(6) | 1x Magic Blast (12", A3, Rending), 1x Heavy Magic Pulse (A6)
 1. Triceratops [1] | Q4+ D3+ | 285 pts | Fear(2), Fearless, Tough(12) | 1x Javelin Crew (12", A6, AP(1), Poison), 1x Horns (A6, Rending), 1x Stomp (A4, AP(1))
@@ -38,6 +38,6 @@
 1. Dactyl Riders [6] | Q5+ D5+ | 270 pts | Fast, Fearless, Flying, Impact(2), Tough(3) | 6x Claws (A1), 6x Hand Weapon (A1, Poison)
 1. Gators [6] | Q4+ D3+ | 380 pts | Fearless, Predator, Tough(3) | 6x Heavy Great Weapon (A3, AP(3))
 
-## 11 - 12
+## 10+
 
 1. Dread Titan [1] | Q2+ D2+ | 690 pts | Fear(3), Tough(18) | 1x Stomp (A6, AP(2)), 1x Vicious Jaws (A4, AP(4), Deadly(3))

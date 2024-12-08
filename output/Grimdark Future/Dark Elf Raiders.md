@@ -13,7 +13,7 @@
 1. Clawed Beast [1] | Q4+ D4+ | 90 pts | Furious, Tough(6) | 1x Heavy Claws (A6, AP(1))
 1. Blood Hounds [5] | Q3+ D5+ | 90 pts | Fast | 5x Vicious Jaws (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Witches [5] | Q4+ D5+ | 105 pts | Dodge, Fast | 5x Barb Pistol (12", A1, Poison), 5x CCW (A2)
 1. Warriors [5] | Q4+ D5+ | 105 pts | Fast | 5x Barb Rifle (24", A1, Poison), 5x CCW (A1)
@@ -34,7 +34,7 @@
 1. Crow Swarms [6] | Q5+ D5+ | 210 pts | Flying, Tough(3) | 6x Swarm Attacks (A3, Rending)
 1. Blood Hounds [10] | Q3+ D5+ | 180 pts | Fast | 10x Vicious Jaws (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Shadow Warriors [5] | Q3+ D5+ | 270 pts | Fast, Shadow, Stealth, Strider | 5x Dark Blast (18", A2, AP(1)), 5x CCW (A2, Poison)
 1. Light Skimmer [1] | Q3+ D2+ | 255 pts | Impact(3), Strider, Tough(6), Transport(11), Very Fast | 1x Laser Cannon (36", A1, AP(3), Deadly(3))
@@ -44,7 +44,7 @@
 1. Nightmares [10] | Q3+ D4+ | 340 pts | Fast, Slayer | 10x Energy Sword (A2, AP(1), Rending)
 1. Winged Warriors [10] | Q4+ D4+ | 320 pts | Ambush, Fast, Flying | 10x Barb Carbine (18", A2, Poison), 10x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Heavy Skimmer [1] | Q3+ D2+ | 445 pts | Impact(3), Strider, Tough(9), Very Fast | 3x 3x Laser Cannon (36", A1, AP(3), Deadly(3))
 1. Shadow Warriors [10] | Q3+ D5+ | 540 pts | Fast, Shadow, Stealth, Strider | 10x Dark Blast (18", A2, AP(1)), 10x CCW (A2, Poison)

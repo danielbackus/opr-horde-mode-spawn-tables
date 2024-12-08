@@ -13,7 +13,7 @@
 1. Havoc Hounds [5] | Q4+ D5+ | 70 pts | Fast, Strider | 5x Rending Claws (A1, Rending)
 1. Barbarian Horsemen [5] | Q5+ D5+ | 70 pts | Fast, Furious, Impact(1) | 5x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Harbinger of Havoc [1] | Q3+ D3+ | 140 pts | Daemon, Fear(1), Hero, Tough(6) | 2x 2x Daemon Hammer (A1, Blast(3)), 1x Stomp (A2, AP(1))
 1. Havoc Ogres [3] | Q4+ D4+ | 105 pts | Tough(3) | 3x Hand Weapon (A3)
@@ -36,7 +36,7 @@
 1. Barbarian Horsemen [10] | Q5+ D5+ | 140 pts | Fast, Furious, Impact(1) | 10x Hand Weapon (A1)
 1. Havoc Knights [10] | Q3+ D3+ | 230 pts | Fast, Impact(1) | 10x Heavy Hand Weapon (A1, AP(1))
 
-## 8 - 10
+## 7 - 9
 
 1. Havoc Shrine [1] | Q4+ D3+ | 285 pts | Dark Blessing, Fear(2), Tough(12) | 1x Giant Fists (A8, AP(2)), 1x Stomp (A4, AP(1))
 1. Slaughter Beast [1] | Q3+ D3+ | 285 pts | Fear(2), Furious, Tough(12) | 1x Razor Claws (A8, Rending), 1x Stomp (A4, AP(1))
@@ -45,6 +45,6 @@
 1. Drake-Centaurs [6] | Q4+ D3+ | 330 pts | Tough(3) | 6x Heavy Great Weapon (A2, AP(4)), 6x Stomp (A1, AP(1))
 1. Havoc Trolls [6] | Q4+ D4+ | 340 pts | Regeneration, Tough(3) | 6x Dual Heavy Hand Weapons (A4, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Daemonic Guard Knights [6] | Q3+ D3+ | 400 pts | Fast, Impact(2), Tough(3) | 6x Heavy Hooves (A1, AP(1)), 6x Hexed Weapon (A1, AP(1), Rending)

@@ -12,7 +12,7 @@
 1. Errant Knights [5] | Q5+ D5+ | 95 pts | Fast, Impact(1), Joust, Scout | 5x Lance (A1, Lance)
 1. Peasant Levy [20] | Q6+ D6+ | 90 pts |  | 20x Throw Stones (12", A1), 20x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Realm Knights [5] | Q4+ D4+ | 120 pts | Fast, Fearless, Furious, Impact(1), Joust | 5x Lance (A1, Lance)
 1. Grail Knights [5] | Q4+ D3+ | 130 pts | Fast, Fearless, Impact(1), Joust | 5x Heavy Lance (A1, AP(1), Lance)
@@ -27,11 +27,11 @@
 1. Errant Knights [10] | Q5+ D5+ | 190 pts | Fast, Impact(1), Joust, Scout | 10x Lance (A1, Lance)
 1. Realm Knights [10] | Q4+ D4+ | 240 pts | Fast, Fearless, Furious, Impact(1), Joust | 10x Lance (A1, Lance)
 
-## 8 - 10
+## 7 - 9
 
 1. Grail Knights [10] | Q4+ D3+ | 260 pts | Fast, Fearless, Impact(1), Joust | 10x Heavy Lance (A1, AP(1), Lance)
 1. Quest Knights [10] | Q4+ D4+ | 260 pts | Fast, Fearless, Impact(1), Joust, Monster Hunter | 10x Great Weapon (A1, AP(2))
 
-## 11 - 12
+## 10+
 
 1. Pegasus Knights [6] | Q4+ D4+ | 400 pts | Fast, Fearless, Flying, Impact(2), Joust, Tough(3) | 6x Heavy Hooves (A1, AP(1)), 6x Lance (A1, Lance)

@@ -11,7 +11,7 @@
 1. Marksmen [5] | Q5+ D5+ | 95 pts | Angelic Ward | 5x Crossbow (24", A1, Rending), 5x Hand Weapon (A1)
 1. Panthers [5] | Q4+ D5+ | 75 pts | Fast, Strider | 5x Claws (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. High Angel [1] | Q3+ D4+ | 130 pts | Angelic Ward, Flying, Hero, Tough(6) | 1x Heavy Hand Weapon (A6, AP(1))
 1. Palace Guard [3] | Q3+ D3+ | 185 pts | Angelic Ward, Tough(3) | 3x Halberd (A3, Rending)
@@ -35,12 +35,12 @@
 1. Panther Riders [10] | Q4+ D5+ | 230 pts | Angelic Ward, Fast, Furious, Strider | 10x Claws (A1), 10x Halberd (A1, Rending)
 1. Paladin Knights [10] | Q3+ D4+ | 240 pts | Angelic Ward, Fast, Impact(1) | 10x Lance (A1, Lance)
 
-## 8 - 10
+## 7 - 9
 
 1. Palace Guard [6] | Q3+ D3+ | 370 pts | Angelic Ward, Tough(3) | 6x Halberd (A3, Rending)
 1. Frozen Angels [6] | Q3+ D4+ | 390 pts | Angelic Ward, Drop Frost, Flying, Tough(3) | 6x Ice Blade (A3, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Battle Angels [6] | Q3+ D4+ | 430 pts | Angelic Ward, Flying, Tough(3) | 6x Great Weapon (A3, AP(2))
 1. Burning Angels [6] | Q3+ D4+ | 410 pts | Angelic Ward, Drop Embers, Flying, Tough(3) | 6x Flame Sword (A3, Rending)

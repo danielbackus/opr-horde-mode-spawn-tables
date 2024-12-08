@@ -9,7 +9,7 @@
 1. Elf Reavers [5] | Q4+ D5+ | 90 pts | Quick Shot, Strider | 5x Bow (24", A1), 5x Hand Weapon (A1)
 1. War-Eel Riders [5] | Q4+ D4+ | 100 pts | Fast, Impact(1), Strider | 5x Lance (A1, Lance)
 
-## 5 - 7
+## 5 - 6
 
 1. Sea Guard [10] | Q5+ D5+ | 110 pts | Scout, Strider | 10x Throwing Weapon (12", A1), 10x Hand Weapon (A1)
 1. Depth Horrors [3] | Q4+ D4+ | 135 pts | Constrict, Strider, Tough(3) | 3x Heavy Hand Weapon (A2, AP(1))
@@ -25,7 +25,7 @@
 1. Elf Reavers [10] | Q4+ D5+ | 180 pts | Quick Shot, Strider | 10x Bow (24", A1), 10x Hand Weapon (A1)
 1. War-Eel Riders [10] | Q4+ D4+ | 200 pts | Fast, Impact(1), Strider | 10x Lance (A1, Lance)
 
-## 8 - 10
+## 7 - 9
 
 1. Giant Kraken [1] | Q4+ D3+ | 265 pts | Constrict, Fear(2), Strider, Tough(12) | 1x Giant Tentacles (A8), 1x Stomp (A4, AP(1))
 1. Giant War-Turtle [1] | Q4+ D3+ | 345 pts | Distortion Drummer, Fear(2), Strider, Tough(12) | 1x Harpoon Launcher (24", A2, AP(2), Deadly(3)), 1x Jaws (A4, AP(2)), 1x Stomp (A4, AP(1))
@@ -34,6 +34,6 @@
 1. Water Elementals [6] | Q4+ D4+ | 350 pts | Furious, Ethereal, Tough(3) | 6x Wave Strike (A4)
 1. Sea-Wyrm Riders [6] | Q4+ D4+ | 320 pts | Fast, Impact(2), Strider, Tough(3) | 6x Lance (A1, Lance), 6x Toxin Jaws (A1, Poison)
 
-## 11 - 12
+## 10+
 
 No units.

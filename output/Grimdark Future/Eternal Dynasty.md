@@ -7,7 +7,7 @@
 1. Scouts [5] | Q4+ D5+ | 100 pts | Fearless, Scout | 5x Long Rifle (30", A1), 5x CCW (A1)
 1. Cyber Lizards [5] | Q4+ D4+ | 65 pts | Fearless, Strider | 5x Toxin Bite (A1, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. ONI Captain [1] | Q3+ D3+ | 120 pts | Fearless, Hero, Tough(6) | 1x Great Mace (A2, Blast(3)), 1x Heavy Bash (A2, AP(1))
 1. Ninja [5] | Q3+ D5+ | 185 pts | Ambush, Fearless, Stealth, Teleport | 10x 2x Sword (A1, AP(1), Rending)
@@ -25,7 +25,7 @@
 1. Cyber Birds [6] | Q5+ D5+ | 240 pts | Fearless, Flying, Tough(3) | 6x Swarm Attacks (A3, Rending)
 1. Cyber Lizards [10] | Q4+ D4+ | 130 pts | Fearless, Strider | 10x Toxin Bite (A1, Poison)
 
-## 8 - 10
+## 7 - 9
 
 1. Ninja Walker [1] | Q3+ D2+ | 385 pts | Ambush, Fear(2), Fearless, Stealth, Tough(9) | 1x Heavy Burst Auto-Gun (18", A8, Rending), 1x Rope-Sickle (12", A1, Deadly(3)), 1x Stomp (A4, AP(1))
 1. ONI Walker [1] | Q3+ D2+ | 390 pts | Fear(2), Fearless, Tough(12) | 1x Heavy Flamethrower (12", A4, AP(1), Blast(3), Reliable), 1x Stomp (A4, AP(1))
@@ -33,7 +33,7 @@
 1. Royal Guard [10] | Q3+ D4+ | 330 pts | Elite Warrior, Fearless, Regeneration | 10x Spear-Shot (12", A1), 10x Spear (A2, AP(1))
 1. Attack Drones [10] | Q4+ D4+ | 270 pts | Fearless, Flying | 10x Laser Gun (18", A1, AP(3)), 10x Taser (A1)
 
-## 11 - 12
+## 10+
 
 1. Dynasty Tank [1] | Q4+ D2+ | 420 pts | Fast, Fearless, Impact(6), Strider, Tough(12) | 1x Artillery Gun (24", A4, Blast(3), Indirect), 1x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable)
 1. Samurai Titan [1] | Q3+ D2+ | 600 pts | Fear(3), Fearless, Tough(18) | 1x Heavy Titan Sword (A12, AP(2), Rending), 1x Stomp (A6, AP(2))

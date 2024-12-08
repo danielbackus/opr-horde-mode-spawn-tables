@@ -19,7 +19,7 @@
 1. Thieves [6] | Q5+ D5+ | 70 pts | Backstab, Slow, Stealth, Strider | 6x Throwing Weapon (12", A1), 6x Hand Weapon (A1)
 1. Marksmen [10] | Q5+ D5+ | 90 pts | Slow | 10x Shortbow (18", A1), 10x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Golems [3] | Q4+ D4+ | 115 pts | Slow, Strider, Tough(3) | 3x Heavy Fist (A3, AP(1))
 1. Jetpack Troopers [3] | Q4+ D4+ | 145 pts | Flying, Tough(3) | 3x Grenades (12", A1, Blast(3)), 3x Fists (A2)
@@ -32,13 +32,13 @@
 1. Beast Riders [10] | Q5+ D5+ | 120 pts | Impact(1) | 10x Hand Weapon (A1)
 1. Golems [6] | Q4+ D4+ | 230 pts | Slow, Strider, Tough(3) | 6x Heavy Fist (A3, AP(1))
 
-## 8 - 10
+## 7 - 9
 
 1. Zeppelins [3] | Q4+ D4+ | 250 pts | Bombing Run(1), Flying, Tough(3) | 3x Rifle (18", A1, AP(1)), 3x Hand Weapon (A1)
 1. Iron Pig [1] | Q4+ D2+ | 280 pts | Fear(2), Impact(6), Tough(9) | 1x Smasher Gun (18", A6, AP(1)), 1x Blade Tusks (A6, AP(2))
 1. Jetpack Troopers [6] | Q4+ D4+ | 290 pts | Flying, Tough(3) | 6x Grenades (12", A1, Blast(3)), 6x Fists (A2)
 
-## 11 - 12
+## 10+
 
 1. Troll Riders [6] | Q4+ D4+ | 480 pts | Regeneration, Tough(3) | 6x Gunner (18", A4, AP(1)), 6x Heavy Hand Weapon (A2, AP(1))
 1. Zeppelins [6] | Q4+ D4+ | 500 pts | Bombing Run(1), Flying, Tough(3) | 6x Rifle (18", A1, AP(1)), 6x Hand Weapon (A1)

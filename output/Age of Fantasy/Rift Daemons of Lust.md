@@ -6,7 +6,7 @@
 1. Lust Furies [5] | Q5+ D5+ | 85 pts | Daemon, Fast, Flying, Overload | 5x Armblades (A2, AP(1))
 1. Lust Warriors [5] | Q4+ D4+ | 75 pts | Daemon, Fast, Overload | 5x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Harbinger of Lust [1] | Q3+ D3+ | 160 pts | Daemon, Fast, Fear(1), Hero, Overload, Tough(6) | 2x 2x Ritual Hammer (A1, Blast(3)), 1x Stomp (A2, AP(1))
 1. Lust Beast Riders [5] | Q4+ D4+ | 115 pts | Daemon, Overload, Very Fast | 5x Hand Weapon (A1), 5x Toxin Claws (A1, Poison)
@@ -19,11 +19,11 @@
 1. Lust Warriors [10] | Q4+ D4+ | 150 pts | Daemon, Fast, Overload | 10x Hand Weapon (A1)
 1. Lust Beast Riders [10] | Q4+ D4+ | 230 pts | Daemon, Overload, Very Fast | 10x Hand Weapon (A1), 10x Toxin Claws (A1, Poison)
 
-## 8 - 10
+## 7 - 9
 
 No units.
 
-## 11 - 12
+## 10+
 
 1. Avatar of Lust [1] | Q2+ D2+ | 895 pts | Caster(4), Daemon, Fast, Fear(3), Hero, Overload, Tough(18) | 2x 2x Exalted Ritual Hammer (A3, Blast(3)), 1x Stomp (A6, AP(2))
 1. Ascended Harbinger of Lust [1] | Q2+ D2+ | 495 pts | Daemon, Fast, Fear(2), Hero, Overload, Tough(12) | 2x 2x Great Ritual Hammer (A2, Blast(3)), 1x Stomp (A4, AP(1))

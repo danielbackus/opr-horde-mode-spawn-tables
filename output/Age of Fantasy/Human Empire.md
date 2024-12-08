@@ -15,7 +15,7 @@
 1. War Wagon of Earth [1] | Q4+ D3+ | 100 pts | Tough(6)
 1. Empire Artillery [1] | Q5+ D5+ | 60 pts | Entrenched, Immobile, Tough(3) | 1x Volley Gun (18", A6, AP(1)), 1x Crew (A3)
 
-## 5 - 7
+## 5 - 6
 
 1. Mage Council [5] | Q5+ D5+ | 165 pts | Mage Council | 5x Magic Staff (12", A2, Rending), 5x Hand Weapon (A1)
 1. Guard Knights [5] | Q4+ D3+ | 105 pts | Fast, Fearless, Impact(1) | 5x Lance (A1, Lance)
@@ -34,11 +34,11 @@
 1. Knights [10] | Q4+ D4+ | 170 pts | Fast, Impact(1) | 10x Hand Weapon (A1)
 1. Guard Knights [10] | Q4+ D3+ | 210 pts | Fast, Fearless, Impact(1) | 10x Lance (A1, Lance)
 
-## 8 - 10
+## 7 - 9
 
 1. Mage Council [10] | Q5+ D5+ | 330 pts | Mage Council | 10x Magic Staff (12", A2, Rending), 10x Hand Weapon (A1)
 1. Gryph Riders [6] | Q4+ D3+ | 370 pts | Fast, Fearless, Impact(2), Tough(3) | 6x Heavy Claws (A1, AP(1)), 6x Lance (A1, Lance)
 
-## 11 - 12
+## 10+
 
 1. Elemental Titan [1] | Q2+ D2+ | 725 pts | Caster(3), Fear(3), Tough(18) | 1x Stomp (A6, AP(2)), 1x Titan Strike (A12, AP(2))

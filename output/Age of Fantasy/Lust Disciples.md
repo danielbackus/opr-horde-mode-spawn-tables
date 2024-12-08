@@ -13,7 +13,7 @@
 1. Lust Barbarian Horsemen [5] | Q5+ D5+ | 75 pts | Furious, Impact(1), Very Fast | 5x Hand Weapon (A1)
 1. Lust Bliss Beast Riders [5] | Q5+ D5+ | 70 pts | Very Fast | 5x Lance (A1, Lance), 5x Toxin Claws (A1, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. Chosen Lust Warriors [5] | Q3+ D3+ | 110 pts | Chosen Veteran, Fast | 5x Heavy Hand Weapon (A1, AP(1))
 1. Lust Mutants [5] | Q4+ D4+ | 105 pts | Fearless, Mutations, Fast | 5x Mutated Limbs (A2)
@@ -33,12 +33,12 @@
 1. Lust Barbarian Horsemen [10] | Q5+ D5+ | 150 pts | Furious, Impact(1), Very Fast | 10x Hand Weapon (A1)
 1. Lust Bliss Beast Riders [10] | Q5+ D5+ | 140 pts | Very Fast | 10x Lance (A1, Lance), 10x Toxin Claws (A1, Poison)
 
-## 8 - 10
+## 7 - 9
 
 1. Lust Shrine [1] | Q4+ D3+ | 310 pts | Dark Blessing, Fear(2), Tough(12), Fast | 1x Giant Fists (A8, AP(2)), 1x Stomp (A4, AP(1))
 1. Lust Fiend Brutes [6] | Q4+ D4+ | 340 pts | Fast, Tough(3) | 6x Rending Claws (A4, Rending)
 1. Lust Knights [10] | Q3+ D3+ | 260 pts | Impact(1), Very Fast | 10x Heavy Hand Weapon (A1, AP(1))
 
-## 11 - 12
+## 10+
 
 No units.

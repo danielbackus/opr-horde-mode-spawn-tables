@@ -7,7 +7,7 @@
 1. Plague Warriors [5] | Q4+ D4+ | 75 pts | Daemon, Putrid | 5x Hand Weapon (A1, Poison)
 1. Plague Swarms [3] | Q6+ D6+ | 70 pts | Daemon, Putrid, Strider, Tough(3) | 3x Swarm Attacks (A3, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. Harbinger of Plague [1] | Q3+ D3+ | 160 pts | Daemon, Fear(1), Hero, Putrid, Tough(6) | 2x 2x Plague Hammer (A1, Blast(3), Poison), 1x Stomp (A2, AP(1))
 1. Plague Fly Riders [3] | Q4+ D3+ | 205 pts | Daemon, Putrid, Strider, Tough(3) | 3x Hand Weapon (A1, Poison), 3x Stinger (A3, AP(1))
@@ -17,11 +17,11 @@
 1. Plague Warriors [10] | Q4+ D4+ | 150 pts | Daemon, Putrid | 10x Hand Weapon (A1, Poison)
 1. Plague Swarms [6] | Q6+ D6+ | 140 pts | Daemon, Putrid, Strider, Tough(3) | 6x Swarm Attacks (A3, Poison)
 
-## 8 - 10
+## 7 - 9
 
 No units.
 
-## 11 - 12
+## 10+
 
 1. Avatar of Plague [1] | Q2+ D2+ | 855 pts | Caster(4), Daemon, Fear(3), Hero, Putrid, Tough(18) | 2x 2x Exalted Plague Hammer (A3, Blast(3), Poison), 1x Stomp (A6, AP(2))
 1. Ascended Harbinger of Plague [1] | Q2+ D2+ | 475 pts | Daemon, Fear(2), Hero, Putrid, Tough(12) | 2x 2x Great Plague Hammer (A2, Blast(3), Poison), 1x Stomp (A4, AP(1))

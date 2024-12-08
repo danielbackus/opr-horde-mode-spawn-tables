@@ -7,7 +7,7 @@
 1. Guardians [5] | Q4+ D4+ | 75 pts | Fearless | 5x Heavy Halberd (A1, AP(1), Rending)
 1. Guardian Archers [5] | Q4+ D4+ | 95 pts | Fearless | 5x Bow (24", A1), 5x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Eternal Lord [1] | Q3+ D3+ | 120 pts | Fearless, Hero, Tough(6) | 1x Heavy Hand Weapon (A4, AP(2))
 1. Wardens [3] | Q4+ D4+ | 130 pts | Fearless, Furious, Tough(3) | 3x Heavy Hand Weapon (A2, AP(1))
@@ -31,7 +31,7 @@
 1. Guardian Archers [10] | Q4+ D4+ | 190 pts | Fearless | 10x Bow (24", A1), 10x Hand Weapon (A1)
 1. Hunting Hawks [6] | Q5+ D5+ | 240 pts | Fast, Flying, Tough(3) | 6x Rending Claws (A3, Rending)
 
-## 8 - 10
+## 7 - 9
 
 1. Wardens [6] | Q4+ D4+ | 260 pts | Fearless, Furious, Tough(3) | 6x Heavy Hand Weapon (A2, AP(1))
 1. Paladins [6] | Q4+ D4+ | 260 pts | Empower, Fearless, Tough(3) | 6x Sword & Staff (A2, Poison)
@@ -41,7 +41,7 @@
 1. Beast-Hounds [6] | Q4+ D5+ | 290 pts | Fast, Strider, Tough(3), Warning Cry | 6x Vicious Bites (A3, AP(1))
 1. Gryph Hunters [6] | Q4+ D4+ | 350 pts | Fast, Fearless, Impact(2), Scout, Tough(3) | 6x Hand Weapon (A2)
 
-## 11 - 12
+## 10+
 
 1. Praetorians [6] | Q3+ D3+ | 480 pts | Fearless, Headtaker, Tough(3) | 6x Axe-Halberd (A3, Reliable, Rending)
 1. Eternals [6] | Q3+ D3+ | 400 pts | Fearless, Tough(3) | 6x Great Glaive (A3, AP(1), Rending)

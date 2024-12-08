@@ -6,7 +6,7 @@
 1. Blood Master Brother [1] | Q3+ D3+ | 60 pts | Fearless, Hero, Tough(3), Furious | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Blood Elite Pathfinder [1] | Q4+ D4+ | 50 pts | Fearless, Hero, Strider, Tough(3), Furious | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Blood Master Destroyer [1] | Q3+ D3+ | 135 pts | Ambush, Fearless, Hero, Tough(6), Furious | 1x CCW (A4)
 1. Blood Pathfinders [5] | Q4+ D4+ | 115 pts | Fearless, Strider, Furious | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -27,7 +27,7 @@
 1. Blood Heavy Exo-Suit [1] | Q3+ D2+ | 170 pts | Fear(1), Fearless, Tough(6), Furious | 1x Twin Flamer (12", A2, Blast(3), Reliable), 1x Stomp (A2, AP(1))
 1. Blood Pathfinders [10] | Q4+ D4+ | 230 pts | Fearless, Strider, Furious | 10x Heavy Pistol (12", A1, AP(1)), 10x CCW (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Blood Brother Bikers [3] | Q3+ D3+ | 285 pts | Fast, Fearless, Tough(3), Furious | 3x Twin Heavy Rifle (24", A2, AP(1)), 3x Heavy Pistol (12", A1, AP(1)), 3x CCW (A2)
 1. Blood Artillery Gun [1] | Q3+ D2+ | 365 pts | Entrenched, Fearless, Repair, Slow, Tough(6) | 1x Heavy Gatling Cannon (24", A12, AP(1)), 1x Engineer Crew (A3, AP(2))
@@ -39,7 +39,7 @@
 1. Blood Death Brothers [10] | Q3+ D3+ | 330 pts | Fearless, Furious, Regeneration | 10x Heavy Rifle (24", A1, AP(1)), 10x CCW (A1)
 1. Blood Support Brothers [6] | Q3+ D3+ | 300 pts | Fearless, Relentless, Furious | 6x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Blood Battle Tank [1] | Q3+ D2+ | 530 pts | Fearless, Impact(6), Tough(12), Very Fast | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Twin Storm Cannon (30", A4, AP(2), Lock-On)
 1. Blood Heavy Tank [1] | Q3+ D2+ | 820 pts | Fearless, Impact(9), Tough(18), Transport(11), Very Fast | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Quad Flamer Cannon (18", A4, AP(1), Blast(3), Reliable)

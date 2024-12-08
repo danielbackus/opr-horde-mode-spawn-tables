@@ -4,7 +4,7 @@
 
 1. Great Sister [1] | Q4+ D3+ | 65 pts | Fearless, Hero, Tough(3) | 1x Energy Sword (A4, AP(1), Rending)
 
-## 5 - 7
+## 5 - 6
 
 1. Master Custodian [1] | Q3+ D2+ | 140 pts | Fearless, Hero, Tough(6) | 1x Shot-Mount (12", A2, AP(1)), 1x Axe (A2, Blast(3))
 1. Custodian Brothers [3] | Q3+ D2+ | 205 pts | Fearless, Tough(3) | 3x Shot-Mount (12", A1, AP(1)), 3x Axe (A1, Blast(3))
@@ -15,7 +15,7 @@
 1. Hunter Sisters [3] | Q4+ D3+ | 105 pts | Fearless, Scout | 3x Flamer (12", A1, Blast(3), Reliable), 3x CCW (A1)
 1. Hunter Sisters [6] | Q4+ D3+ | 210 pts | Fearless, Scout | 6x Flamer (12", A1, Blast(3), Reliable), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Master Destroyer [1] | Q3+ D2+ | 255 pts | Ambush, Fearless, Hero, Tough(9) | 1x Shot-Mount (12", A3, AP(1)), 1x Axe (A2, Blast(3)), 1x Stomp (A3, AP(1))
 1. Sagittarius Brothers [3] | Q3+ D2+ | 360 pts | Fearless, Relentless, Tough(3) | 3x Bolt Rifle (30", A2, AP(1)), 3x Disintegrator-Mod (18", A1, AP(4)), 3x Heavy CCW (A1, AP(1))
@@ -26,7 +26,7 @@
 1. Vigilant Sisters [10] | Q4+ D3+ | 300 pts | Fearless, Furious | 10x Energy Sword (A2, AP(1), Rending)
 1. Prosecution Sisters [10] | Q4+ D3+ | 310 pts | Fearless, Relentless | 10x Prosecution Rifle (24", A2), 10x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Anti-Grav Battle Tank [1] | Q3+ D2+ | 555 pts | Fast, Fearless, Impact(6), Strider, Tough(12) | 1x Twin Heavy Blazer (36", A2, AP(3), Deadly(3)), 1x Twin Bolt Cannon (30", A6, AP(1))
 1. Anti-Grav Heavy Battle Tank [1] | Q3+ D2+ | 825 pts | Fast, Fearless, Impact(9), Strider, Tough(18) | 1x Twin Blazer (30", A2, AP(3), Deadly(3)), 1x Twin Heavy Bolt Cannon (30", A12, AP(1))

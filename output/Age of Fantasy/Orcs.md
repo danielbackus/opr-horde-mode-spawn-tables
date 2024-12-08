@@ -18,7 +18,7 @@
 1. Wild Boar Riders [5] | Q5+ D6+ | 85 pts | Devour, Fast, Frenzy, Scout, Strider | 5x Lance (A1, Lance)
 1. Orc Artillery [1] | Q5+ D5+ | 95 pts | Entrenched, Immobile, Tough(3) | 1x Giant Crossbow (36", A1, AP(3), Deadly(6)), 1x Crew (A3)
 
-## 5 - 7
+## 5 - 6
 
 1. Brute Orcs [3] | Q4+ D4+ | 150 pts | Furious, Tough(3) | 3x Heavy Spear (A2, AP(1), Counter)
 1. Wild Brute Orcs [3] | Q4+ D5+ | 190 pts | Frenzy, Scout, Strider, Tough(3) | 3x Wrecking Flail (A1, AP(4), Blast(3))
@@ -36,13 +36,13 @@
 1. Boar Riders [10] | Q5+ D5+ | 140 pts | Fast, Furious, Impact(1) | 10x Hand Weapon (A1)
 1. Wild Boar Riders [10] | Q5+ D6+ | 170 pts | Devour, Fast, Frenzy, Scout, Strider | 10x Lance (A1, Lance)
 
-## 8 - 10
+## 7 - 9
 
 1. Sludge Beast [1] | Q4+ D3+ | 320 pts | Fear(2), Furious, Stealth, Tough(12) | 1x Snatching Hook (12", A3, AP(1), Sniper), 1x Putrid Bite (A8, Poison), 1x Stomp (A4, AP(1))
 1. Brute Orcs [6] | Q4+ D4+ | 300 pts | Furious, Tough(3) | 6x Heavy Spear (A2, AP(1), Counter)
 1. Wild Brute Orcs [6] | Q4+ D5+ | 380 pts | Frenzy, Scout, Strider, Tough(3) | 6x Wrecking Flail (A1, AP(4), Blast(3))
 1. Great Boar Riders [6] | Q4+ D3+ | 340 pts | Fast, Furious, Impact(2), Tough(3) | 6x Hand Weapon (A1), 6x Heavy Tusks (A1, AP(1))
 
-## 11 - 12
+## 10+
 
 No units.

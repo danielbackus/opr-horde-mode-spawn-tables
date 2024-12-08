@@ -9,7 +9,7 @@
 1. Minion Bikers [3] | Q5+ D5+ | 100 pts | Fast, Scout, Tough(3) | 3x Rifle (24", A1), 3x CCW (A2)
 1. Minion Quadbike [1] | Q5+ D5+ | 85 pts | Fast, Scout, Tough(6) | 1x Mining Laser (18", A1, AP(3), Deadly(3)), 1x Burst Pistol (12", A3), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Soul-Snatcher Matriarch [1] | Q3+ D3+ | 165 pts | Caster(3), Fast, Fear(1), Hero, Scout, Strider, Tough(3) | 1x Heavy Claws (A4, AP(1), Rending)
 1. Minions [10] | Q5+ D5+ | 115 pts |  | 10x Rifle (24", A1), 10x CCW (A1)
@@ -26,7 +26,7 @@
 1. Acolytes [10] | Q4+ D5+ | 230 pts | Scout, Strider | 10x Pistol (12", A1), 10x Mutant Claws (A2, AP(1))
 1. Minion Bikers [6] | Q5+ D5+ | 200 pts | Fast, Scout, Tough(3) | 6x Rifle (24", A1), 6x CCW (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Grinder Truck [1] | Q4+ D2+ | 285 pts | Fast, Impact(3), Strider, Tough(9), Transport(6) | 1x Heavy Machinegun (30", A3, AP(1)), 1x Heavy Quake Cannon (24", A2, Blast(3), Rending)
 1. Mining Truck [1] | Q4+ D2+ | 350 pts | Fast, Impact(3), Tough(9), Transport(11) | 1x Twin Autocannon (36", A6, AP(2)), 1x Heavy Machinegun (30", A3, AP(1))
@@ -36,6 +36,6 @@
 1. Soul-Snatchers [10] | Q3+ D4+ | 340 pts | Fast, Scout, Strider | 10x Heavy Claws (A2, AP(1), Rending)
 1. Elite Snatchers [10] | Q3+ D3+ | 370 pts | Ambush, Fast, Regeneration, Strider | 10x Heavy Claws (A2, AP(1), Rending)
 
-## 11 - 12
+## 10+
 
 No units.

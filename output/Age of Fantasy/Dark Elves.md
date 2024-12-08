@@ -14,7 +14,7 @@
 1. Dark Horsemen [5] | Q4+ D5+ | 85 pts | Fast, Impact(1) | 5x Lance (A1, Lance)
 1. Harpies [5] | Q5+ D5+ | 70 pts | Flying, Scout | 5x Heavy Claws (A2, AP(1))
 
-## 5 - 7
+## 5 - 6
 
 1. Snake Lady [1] | Q3+ D4+ | 105 pts | Hero, Tough(6), Strider | 1x Great Glaive (A4, AP(1), Rending)
 1. Black Guardians [5] | Q3+ D4+ | 105 pts | Fearless, Furious | 5x Heavy Halberd (A1, AP(1), Rending)
@@ -38,7 +38,7 @@
 1. Dark Horsemen [10] | Q4+ D5+ | 170 pts | Fast, Impact(1) | 10x Lance (A1, Lance)
 1. Harpies [10] | Q5+ D5+ | 140 pts | Flying, Scout | 10x Heavy Claws (A2, AP(1))
 
-## 8 - 10
+## 7 - 9
 
 1. Hydra [1] | Q4+ D3+ | 280 pts | Fear(2), Hydra Heads, Regeneration, Tough(12) | 1x Stomp (A4, AP(1)), 1x Vicious Jaws (A6, AP(1))
 1. Medusa Shrine [1] | Q3+ D3+ | 265 pts | Aura of Pain, Fear(2), Furious, Tough(9) | 1x Death Stare (12", A1, AP(2), Deadly(3)), 1x Blood Spear (A6, AP(1), Rending), 1x Crew Attacks (A2)
@@ -47,6 +47,6 @@
 1. Snake Sisters [6] | Q3+ D4+ | 330 pts | Strider, Tough(3) | 6x Blood Glaive (A3, Rending)
 1. Raptor Knights [10] | Q3+ D4+ | 260 pts | Devour, Fast, Impact(1) | 10x Lance (A1, Lance)
 
-## 11 - 12
+## 10+
 
 No units.

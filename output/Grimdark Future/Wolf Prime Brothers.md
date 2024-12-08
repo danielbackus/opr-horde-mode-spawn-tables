@@ -6,7 +6,7 @@
 1. Wolf Prime Master [1] | Q3+ D2+ | 70 pts | Fearless, Hero, Tough(3), Counter-Attack | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Wolf Elite Raider [1] | Q4+ D3+ | 60 pts | Fearless, Furious, Hero, Strider, Tough(3), Counter-Attack | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Wolf Grave Prime Master [1] | Q3+ D2+ | 225 pts | Fearless, Hero, Tough(6), Counter-Attack | 1x Energy Greatsword (A8, AP(1), Rending)
 1. Wolf Raider Squad [5] | Q4+ D3+ | 140 pts | Fearless, Furious, Strider, Counter-Attack | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -22,7 +22,7 @@
 1. Wolf Prime ATV [1] | Q3+ D2+ | 230 pts | Fast, Fearless, Impact(3), Scout, Strider, Tough(6) | 1x Twin Heavy Rifle (24", A2, AP(1)), 1x Gatling Gun (18", A6)
 1. Veteran Wolf Prime Brothers [6] | Q3+ D2+ | 230 pts | Fearless, War Veteran, Counter-Attack | 6x Precision Rifle (24", A1, Reliable), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Wolf Guard Squad [3] | Q3+ D2+ | 365 pts | Fearless, Heavy Shield, Tough(3), War Veteran, Counter-Attack | 3x Heavy Pistol (12", A1, AP(1)), 3x Relic Sword (A1, AP(2), Deadly(3))
 1. Wolf Eradication Squad [3] | Q3+ D2+ | 265 pts | Fearless, Tough(3), Counter-Attack | 3x Fusion Rifle (12", A1, AP(4), Deadly(3)), 3x CCW (A1)
@@ -41,7 +41,7 @@
 1. Wolf Infernal Squad [6] | Q3+ D2+ | 260 pts | Fearless, Relentless, Counter-Attack | 6x Flamer (12", A1, Blast(3), Reliable), 6x CCW (A1)
 1. Wolf Elimination Squad [6] | Q3+ D3+ | 320 pts | Fearless, Scout, Stealth, Counter-Attack | 6x Sniper Rifle (30", A1, AP(1), Sniper), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Wolf Aggro Squad [3] | Q3+ D2+ | 415 pts | Fearless, Tough(3), Counter-Attack | 3x Twin Fist-Flamers (6", A3, Reliable), 3x Dual Energy Fists (A4, AP(4))
 1. Wolf Anti-Grav Tank [1] | Q3+ D2+ | 480 pts | Fast, Fearless, Impact(6), Strider, Tough(15) | 1x Twin Frag-GL (18", A2, Blast(3)), 1x Twin Light Gatling Gun (18", A8)

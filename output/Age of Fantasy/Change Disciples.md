@@ -14,7 +14,7 @@
 1. Change Hounds [5] | Q4+ D5+ | 80 pts | Fast, Strider, Stealth | 5x Rending Claws (A1, Rending)
 1. Change Barbarian Horsemen [5] | Q5+ D5+ | 75 pts | Fast, Furious, Impact(1), Stealth | 5x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Chosen Change Warriors [5] | Q3+ D3+ | 110 pts | Chosen Veteran, Stealth | 5x Heavy Hand Weapon (A1, AP(1))
 1. Change Mutants [5] | Q4+ D4+ | 105 pts | Fearless, Mutations, Stealth | 5x Mutated Limbs (A2)
@@ -32,12 +32,12 @@
 1. Change Hounds [10] | Q4+ D5+ | 160 pts | Fast, Strider, Stealth | 10x Rending Claws (A1, Rending)
 1. Change Barbarian Horsemen [10] | Q5+ D5+ | 150 pts | Fast, Furious, Impact(1), Stealth | 10x Hand Weapon (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Change Shrine [1] | Q4+ D3+ | 330 pts | Dark Blessing, Fear(2), Tough(12), Stealth | 1x Giant Fists (A8, AP(2)), 1x Stomp (A4, AP(1))
 1. Change Knights [10] | Q3+ D3+ | 260 pts | Fast, Impact(1), Stealth | 10x Heavy Hand Weapon (A1, AP(1))
 1. Change Birdmen Disc Riders [6] | Q4+ D5+ | 300 pts | Fast, Stealth, Strider, Tough(3) | 6x Lance (A3, Lance)
 
-## 11 - 12
+## 10+
 
 No units.

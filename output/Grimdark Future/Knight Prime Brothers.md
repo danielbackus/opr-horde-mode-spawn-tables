@@ -6,7 +6,7 @@
 1. Knight Prime Master [1] | Q3+ D2+ | 80 pts | Fearless, Hero, Tough(3), Aegis | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Knight Elite Raider [1] | Q4+ D3+ | 65 pts | Fearless, Furious, Hero, Strider, Tough(3), Aegis | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Knight Grave Prime Master [1] | Q3+ D2+ | 220 pts | Fearless, Hero, Tough(6), Aegis | 1x Energy Greatsword (A8, AP(1), Rending)
 1. Knight Raider Squad [5] | Q4+ D3+ | 135 pts | Fearless, Furious, Strider, Aegis | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -21,7 +21,7 @@
 1. Knight Elimination Squad [3] | Q3+ D3+ | 160 pts | Fearless, Scout, Stealth, Aegis | 3x Sniper Rifle (30", A1, AP(1), Sniper), 3x CCW (A1)
 1. Veteran Knight Prime Brothers [6] | Q3+ D2+ | 230 pts | Fearless, War Veteran, Aegis | 6x Precision Rifle (24", A1, Reliable), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Knight Guard Squad [3] | Q3+ D2+ | 345 pts | Fearless, Heavy Shield, Tough(3), War Veteran, Aegis | 3x Heavy Pistol (12", A1, AP(1)), 3x Relic Sword (A1, AP(2), Deadly(3))
 1. Knight Eradication Squad [3] | Q3+ D2+ | 290 pts | Fearless, Tough(3), Aegis | 3x Fusion Rifle (12", A1, AP(4), Deadly(3)), 3x CCW (A1)
@@ -43,7 +43,7 @@
 1. Knight Infernal Squad [6] | Q3+ D2+ | 260 pts | Fearless, Relentless, Aegis | 6x Flamer (12", A1, Blast(3), Reliable), 6x CCW (A1)
 1. Knight Elimination Squad [6] | Q3+ D3+ | 320 pts | Fearless, Scout, Stealth, Aegis | 6x Sniper Rifle (30", A1, AP(1), Sniper), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Knight Anti-Grav Tank [1] | Q3+ D2+ | 545 pts | Fast, Fearless, Impact(6), Strider, Tough(15), Aegis | 1x Twin Frag-GL (18", A2, Blast(3)), 1x Twin Light Gatling Gun (18", A8)
 1. Knight Heavy Anti-Grav Destroyer Tank [1] | Q3+ D2+ | 925 pts | Fast, Fearless, Impact(9), Strider, Tough(18), Transport(6), Aegis | 1x Heavy Laser Cannon (36", A1, AP(3), Deadly(6)), 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Heavy Gatling Gun (18", A8), 1x Proximity Defense Array (18", A3, AP(1), Lock-On)

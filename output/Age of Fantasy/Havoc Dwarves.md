@@ -12,7 +12,7 @@
 1. Shooters [5] | Q4+ D5+ | 75 pts | Slow | 5x Rifle (18", A1, AP(1)), 5x Hand Weapon (A1)
 1. Cultists [20] | Q6+ D6+ | 80 pts | Slow | 20x Throw Stones (12", A1), 20x Hand Weapon (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Bull Centaur Champion [1] | Q3+ D3+ | 145 pts | Fear(1), Furious, Hero, Impact(4), Tough(6) | 1x Great Weapon (A4, AP(2))
 1. Weapon Teams [3] | Q4+ D5+ | 120 pts | Slow, Tough(3) | 3x Flamethrower (12", A1, Blast(3), Reliable), 3x Crew (A2)
@@ -32,7 +32,7 @@
 1. Weapon Teams [6] | Q4+ D5+ | 240 pts | Slow, Tough(3) | 6x Flamethrower (12", A1, Blast(3), Reliable), 6x Crew (A2)
 1. Dwarf Centaurs [10] | Q4+ D4+ | 210 pts | Impact(1), Regeneration | 10x Great Weapon (A1, AP(2))
 
-## 8 - 10
+## 7 - 9
 
 1. Giant Rhino [1] | Q4+ D2+ | 325 pts | Abyssal Icon, Fear(2), Fearless, Tough(12) | 1x Horn (A2, AP(3), Deadly(3)), 1x Stomp (A4, AP(1))
 1. Bull Centaurs [6] | Q3+ D3+ | 360 pts | Furious, Impact(2), Tough(3) | 6x Heavy Hand Weapon (A2, AP(1))
@@ -40,6 +40,6 @@
 1. Grotesques [6] | Q3+ D4+ | 350 pts | Regeneration, Tough(3) | 6x Toxin Claws (A3, Poison)
 1. Flame Spirits [6] | Q4+ D4+ | 350 pts | Ethereal, Furious, Tough(3) | 6x Dual Hand Weapons (A4)
 
-## 11 - 12
+## 10+
 
 No units.

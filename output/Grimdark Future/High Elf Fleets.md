@@ -6,7 +6,7 @@
 1. Elite Protector [1] | Q4+ D5+ | 35 pts | Fast, Hero, Tough(3) | 1x CCW (A2)
 1. Retributors [5] | Q3+ D4+ | 100 pts | Fast | 5x Energy Sword (A1, AP(1), Rending)
 
-## 5 - 7
+## 5 - 6
 
 1. Acolytes [3] | Q4+ D4+ | 150 pts | Fast, Seer Council | 3x Shard Pistol (12", A1, Rending), 3x Energy Sword (A2, AP(1), Rending)
 1. Strikers [5] | Q4+ D5+ | 115 pts | Fast, Scout | 5x Shard Pistol (12", A1, Rending), 5x CCW (A2)
@@ -27,7 +27,7 @@
 1. Protectors [10] | Q4+ D5+ | 240 pts | Fast | 10x Shardgun (12", A2, Rending), 10x CCW (A1)
 1. Retributors [10] | Q3+ D4+ | 200 pts | Fast | 10x Energy Sword (A1, AP(1), Rending)
 
-## 8 - 10
+## 7 - 9
 
 1. Vanquishers [3] | Q3+ D4+ | 260 pts | Fast, Relentless | 3x Surge Rockets (24", A3, AP(1), Lock-On), 3x CCW (A1)
 1. Jetbike Strikers [3] | Q3+ D4+ | 280 pts | Impact(1), Scout, Strider, Tough(3), Very Fast | 3x Mounted Shardguns (12", A2, Rending), 3x Shard Pistol (12", A1, Rending), 3x CCW (A2)
@@ -40,7 +40,7 @@
 1. Scorchers [6] | Q3+ D4+ | 270 pts | Fast | 6x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 1. Snipers [6] | Q4+ D5+ | 280 pts | Fast, Scout, Stealth, Strider | 6x Sniper Rifle (30", A1, AP(1), Sniper), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Anti-Gravity Tank [1] | Q3+ D2+ | 530 pts | Impact(6), Strider, Tough(12), Very Fast | 2x 2x Rapid Burst Laser (30", A6, AP(1)), 1x Mounted Shardguns (12", A2, Rending)
 1. Titan Elemental [1] | Q3+ D2+ | 840 pts | Fear(4), Fearless, Tough(24) | 1x Dual Titan Claws (A24, Rending), 1x Stomp (A8, AP(2))

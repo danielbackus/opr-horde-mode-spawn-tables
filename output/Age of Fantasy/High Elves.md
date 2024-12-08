@@ -11,7 +11,7 @@
 1. Archers [5] | Q4+ D5+ | 85 pts |  | 5x Longbow (30", A1), 5x Hand Weapon (A1)
 1. Silver Cavalry [5] | Q4+ D4+ | 95 pts | Fast, Impact(1) | 5x Lance (A1, Lance)
 
-## 5 - 7
+## 5 - 6
 
 1. Coast Guard [5] | Q4+ D5+ | 110 pts | Fearless | 5x Bow (24", A1), 5x Spear (A1, Counter)
 1. Shadow Sisters [5] | Q3+ D5+ | 135 pts | Quick Shot | 5x Magic Shortbow (18", A1, Rending), 5x Hand Weapon (A1)
@@ -35,13 +35,13 @@
 1. Silver Cavalry [10] | Q4+ D4+ | 190 pts | Fast, Impact(1) | 10x Lance (A1, Lance)
 1. Reaver Cavalry [10] | Q4+ D5+ | 230 pts | Fast, Impact(1) | 10x Bow (24", A1), 10x Hand Weapon (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Bull Giant [1] | Q3+ D3+ | 300 pts | Fear(2), Fearless, Mountain Blast, Tough(12) | 1x Greathammer (A6, AP(2)), 1x Stomp (A4, AP(1))
 1. Shadow Sisters [10] | Q3+ D5+ | 270 pts | Quick Shot | 10x Magic Shortbow (18", A1, Rending), 10x Hand Weapon (A1)
 1. Dragon Cavalry [10] | Q3+ D3+ | 250 pts | Fast, Fearless, Impact(1) | 10x Lance (A1, Lance)
 1. Giant Eagles [6] | Q4+ D4+ | 320 pts | Fast, Flying, Impact(2), Tough(3) | 6x Claws (A2)
 
-## 11 - 12
+## 10+
 
 No units.

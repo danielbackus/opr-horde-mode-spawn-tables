@@ -8,7 +8,7 @@
 1. Saurian Warriors [5] | Q4+ D4+ | 100 pts | Fearless, Predator | 5x Pistol (12", A1), 5x CCW (A2)
 1. Cyber Swarms [3] | Q6+ D6+ | 60 pts | Fearless, Strider, Tough(3) | 3x Swarm Attacks (A3, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. Gator Veteran [1] | Q4+ D3+ | 125 pts | Fear(1), Fearless, Hero, Predator, Tough(6) | 2x 2x Heavy Mace (A1, AP(1), Blast(3)), 1x Stomp (A2, AP(1))
 1. Chameleons [5] | Q5+ D5+ | 135 pts | Fearless, Good Shot, Scout, Stealth, Strider | 5x Toxin Gun (18", A2, Poison), 5x CCW (A1)
@@ -26,7 +26,7 @@
 1. Deinonychus Riders [10] | Q5+ D5+ | 210 pts | Bounding, Fearless, Impact(1), Shield Wall, Strider | 10x Shock Lance (A1, AP(4))
 1. Cyber Swarms [6] | Q6+ D6+ | 120 pts | Fearless, Strider, Tough(3) | 6x Swarm Attacks (A3, Poison)
 
-## 8 - 10
+## 7 - 9
 
 1. Frog-Mage [1] | Q2+ D2+ | 255 pts | Caster(3), Fear(1), Hero, Strider, Tough(6) | 1x Magic Blast (12", A3, Rending), 1x Heavy Pulse (A6)
 1. Triceratops [1] | Q4+ D2+ | 320 pts | Fear(2), Fearless, Tough(12) | 1x Horns (A6, Rending), 1x Stomp (A4, AP(1))
@@ -37,7 +37,7 @@
 1. Raptor Riders [10] | Q4+ D3+ | 270 pts | Devour, Fast, Fearless, Predator | 10x Pistol (12", A1), 10x CCW (A2)
 1. Gators [6] | Q4+ D3+ | 330 pts | Fearless, Predator, Tough(3) | 6x Bash (A2), 12x 2x Bludgeon (A1, Lance)
 
-## 11 - 12
+## 10+
 
 1. Ankylosaurus [1] | Q4+ D2+ | 505 pts | Fear(2), Fearless, Heavy Shield, Tough(12) | 1x Twin Fusion Cannon (24", A2, AP(4), Deadly(6)), 1x Mace Tail (A4, AP(2)), 1x Stomp (A4, AP(1))
 1. Dread Titan [1] | Q2+ D2+ | 690 pts | Fear(3), Tough(18) | 1x Stomp (A6, AP(2)), 1x Vicious Jaws (A4, AP(4), Deadly(3))

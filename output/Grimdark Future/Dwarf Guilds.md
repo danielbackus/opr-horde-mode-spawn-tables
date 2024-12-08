@@ -8,7 +8,7 @@
 1. Guardians [5] | Q4+ D4+ | 65 pts | Shield Wall, Slow | 5x Pistol (12", A1), 5x Bash (A1)
 1. Berserkers [5] | Q4+ D5+ | 75 pts | Fearless, Furious, Slayer, Slow | 5x Great Axe (A1, AP(2))
 
-## 5 - 7
+## 5 - 6
 
 1. Powersuit Champion [1] | Q3+ D3+ | 110 pts | Ambush, Hero, Slow, Tough(6) | 1x Shock Hammer (A2, Blast(3))
 1. Iron Veterans [5] | Q3+ D3+ | 105 pts | Slow | 5x Iron Shotgun (6", A2, AP(2)), 5x CCW (A1)
@@ -31,7 +31,7 @@
 1. Jetpack Warriors [10] | Q4+ D4+ | 210 pts | Ambush, Flying | 10x Pistol (12", A1), 10x CCW (A2)
 1. Elites [10] | Q3+ D3+ | 220 pts | Fearless, Protected, Slow | 10x Heat Hammer (A1, AP(2), Magma)
 
-## 8 - 10
+## 7 - 9
 
 1. Battle Tank [1] | Q4+ D2+ | 375 pts | Fast, Impact(6), Tough(12) | 1x Twin Heavy Fusion Rifle (18", A2, AP(4), Deadly(3)), 1x Twin Heavy Flamer (12", A2, AP(1), Blast(3), Reliable)
 1. Assault Drill [1] | Q4+ D2+ | 385 pts | Ambush, Fast, Impact(6), Tough(12), Transport(11) | 1x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 1x Tunneling Drill (A6, AP(4))
@@ -41,7 +41,7 @@
 1. Thunder Support [6] | Q4+ D4+ | 370 pts | Slow, Tough(3) | 6x Mortar (30", A1, Blast(3), Indirect), 6x CCW (A2)
 1. Powersuit Guard [6] | Q3+ D3+ | 320 pts | Ambush, Slow, Tough(3) | 6x Shock Hammer (A1, Blast(3))
 
-## 11 - 12
+## 10+
 
 1. Land Train [1] | Q4+ D2+ | 445 pts | Fast, Impact(6), Tough(12) | 1x Twin Heavy Rifle (24", A2, AP(1)), 2x 2x Twin Light Fusion AA-Gun (18", A2, AP(4), Deadly(3), Lock-On)
 1. Fortress Tank [1] | Q4+ D2+ | 655 pts | Fast, Impact(9), Tough(18), Transport(16) | 1x Heavy C-Beamer (30", A3, AP(2), Beam), 1x Minigun (24", A4, AP(1)), 4x 4x Twin Heavy Rifle (24", A2, AP(1))

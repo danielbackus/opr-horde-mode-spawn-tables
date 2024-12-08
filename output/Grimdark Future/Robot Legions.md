@@ -4,7 +4,7 @@
 
 1. Robot Lord [1] | Q3+ D3+ | 55 pts | Hero, Robot, Self-Repair, Slow, Tough(3) | 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Annihilator Lord [1] | Q3+ D3+ | 150 pts | Ambush, Hero, Robot, Self-Repair, Strider, Tough(6) | 1x CCW (A3)
 1. Tri-Scorpion Lord [1] | Q3+ D3+ | 230 pts | Hero, Relentless, Robot, Self-Repair, Strider, Tough(6) | 1x Annihilation Gun (18", A2, AP(1), Blast(3)), 1x Harvest Blade (A2, AP(2), Deadly(3))
@@ -24,7 +24,7 @@
 1. Snipers [6] | Q4+ D4+ | 240 pts | Robot, Self-Repair, Slow | 6x D-Mark (24", A1, AP(1), Sniper), 6x CCW (A1)
 1. Bot Swarms [6] | Q6+ D6+ | 210 pts | Robot, Self-Repair, Strider, Tough(3) | 6x Swarm Attacks (A3, Rending)
 
-## 8 - 10
+## 7 - 9
 
 1. Destroyer Snakes [3] | Q3+ D4+ | 305 pts | Robot, Self-Repair, Strider, Tough(3), Tunneller | 3x Dual Reaper Blades (A4, AP(2))
 1. Tri-Scorpions [3] | Q3+ D3+ | 270 pts | Robot, Self-Repair, Strider, Tough(3) | 3x Dual Reaper Blades (A4, AP(2))
@@ -37,7 +37,7 @@
 1. Flesh-Eaters [10] | Q3+ D4+ | 280 pts | Robot, Self-Repair, Slow, Tunneller | 10x Metal Claws (A2, AP(1))
 1. Eternals [10] | Q3+ D2+ | 360 pts | Robot, Self-Repair, Slow | 10x Flux Carbine (18", A2, Flux), 10x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Doom Tank [1] | Q3+ D2+ | 445 pts | Impact(3), Robot, Self-Repair, Strider, Tough(9) | 1x Doom Cannon (30", A3, AP(2), Blast(3)), 1x Gauss Rifle Array (24", A3, Rending)
 1. Spider Walker [1] | Q3+ D2+ | 535 pts | Fear(2), Robot, Self-Repair, Strider, Tough(12) | 1x Twin Fusion Ray (18", A2, AP(4), Deadly(6)), 1x Crushing Legs (A2, AP(2)), 1x Stomp (A4, AP(1))

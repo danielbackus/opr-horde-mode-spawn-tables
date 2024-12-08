@@ -7,7 +7,7 @@
 1. Plague Cultist Champion [1] | Q5+ D5+ | 30 pts | Hero, Tough(3), Putrid | 1x Champion Pistol (12", A2), 1x CCW (A2)
 1. Plague Zombies [10] | Q5+ D6+ | 100 pts | Putrid, Slow, Undead | 10x Claws (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Plague Destroyer Champion [1] | Q3+ D3+ | 145 pts | Ambush, Hero, Tough(6), Putrid | 1x Champion Heavy Rifle (24", A2, AP(1)), 1x CCW (A4)
 1. Plague Cultists [10] | Q5+ D5+ | 135 pts | Putrid | 10x Rifle (24", A1), 10x CCW (A1)
@@ -25,7 +25,7 @@
 1. Chosen Plague Brothers [6] | Q3+ D3+ | 240 pts | Chosen Veteran, Putrid | 6x Heavy Rifle (24", A1, AP(1)), 6x CCW (A1)
 1. Mutated Plague Cultists [20] | Q5+ D6+ | 240 pts | Mutations, Putrid | 20x Claws (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Plague Bikers [3] | Q3+ D3+ | 285 pts | Fast, Tough(3), Putrid | 3x Twin Heavy Rifle (24", A2, AP(1)), 3x Heavy Pistol (12", A1, AP(1)), 3x CCW (A2)
 1. Plague Hauler [1] | Q3+ D2+ | 295 pts | Fear(1), Putrid, Regeneration, Tough(6) | 1x Missile Pod (30", A1, AP(2), Deadly(3), Lock-On), 1x Heavy Fusion Rifle (18", A1, AP(4), Deadly(3)), 1x Daemonic Teeth (A3, AP(1)), 1x Stomp (A2, AP(1))
@@ -35,7 +35,7 @@
 1. Plague Support [6] | Q3+ D3+ | 290 pts | Relentless, Putrid | 6x Heavy Flamer (12", A1, AP(1), Blast(3), Reliable), 6x CCW (A1)
 1. Mutated Plague Brothers [10] | Q3+ D4+ | 320 pts | Fast, Mutations, Putrid | 10x Heavy Claws (A2, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Plague Tank [1] | Q3+ D2+ | 545 pts | Fast, Impact(6), Tough(12), Putrid | 1x Twin Laser Cannon (36", A2, AP(3), Deadly(3)), 1x Twin Heavy Machinegun (30", A6, AP(1))
 1. Plague Heavy Tank [1] | Q3+ D2+ | 910 pts | Fast, Impact(9), Tough(18), Transport(11), Putrid | 1x Quad Laser Cannon (36", A4, AP(3), Deadly(3)), 1x Twin Heavy Machinegun (30", A6, AP(1))

@@ -8,7 +8,7 @@
 1. Hive Swarm [3] | Q6+ D6+ | 60 pts | Fearless, Strider, Tough(3) | 3x Swarm Attacks (A3, Poison)
 1. Spores [5] | Q6+ D6+ | 85 pts | Explode(2), No Retreat | 5x Tendrils (A1)
 
-## 5 - 7
+## 5 - 6
 
 1. Synapse Tyrant [1] | Q4+ D4+ | 180 pts | Caster(3), Hero, Stealth, Tough(6) | 1x Heavy Psy-Torrent (9", A2, AP(1), Blast(3), Reliable), 1x Psy-Shock (A3)
 1. Snatcher Lord [1] | Q3+ D4+ | 125 pts | Fast, Hero, Caster(2), Scout, Strider, Tough(3) | 1x Heavy Claws (A4, AP(1), Rending)
@@ -38,7 +38,7 @@
 1. Hive Swarm [6] | Q6+ D6+ | 120 pts | Fearless, Strider, Tough(3) | 6x Swarm Attacks (A3, Poison)
 1. Spores [10] | Q6+ D6+ | 170 pts | Explode(2), No Retreat | 10x Tendrils (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Hive Lord [1] | Q3+ D2+ | 360 pts | Fear(2), Fearless, Hero, Tough(12) | 4x 4x Heavy Razor Claws (A3, AP(1)), 1x Stomp (A4, AP(1))
 1. Carnivo-Rex [1] | Q4+ D2+ | 300 pts | Fear(2), Fearless, Tough(12) | 3x 3x Heavy Razor Claws (A3, AP(1)), 1x Stomp (A4, AP(1))
@@ -51,7 +51,7 @@
 1. Shadow Leapers [6] | Q4+ D4+ | 370 pts | Ambush, Fast, Stealth, Strider, Tough(3) | 12x 2x Razor Claws (A2)
 1. Massive Spores [6] | Q6+ D6+ | 330 pts | Explode(6), No Retreat, Tough(3) | 6x Tendrils (A3)
 
-## 11 - 12
+## 10+
 
 1. Toxico-Rex [1] | Q4+ D2+ | 460 pts | Fear(2), Fearless, Shrouding Mist, Stealth, Tough(12) | 1x Acid Spurt (12", A2, Blast(3), Poison), 1x Stomp (A4, AP(1)), 1x Whip Limbs (A8, Poison, Reliable)
 1. Psycho-Rex [1] | Q4+ D2+ | 445 pts | Caster(3), Fear(2), Fearless, Stealth, Tough(12) | 1x Heavy Psy-Torrent (9", A2, AP(1), Blast(3), Reliable), 1x Heavy Razor Claws (A6, AP(1)), 1x Stomp (A4, AP(1))

@@ -11,7 +11,7 @@
 1. Combat Bikers [5] | Q5+ D5+ | 90 pts | Fast, Impact(1) | 5x Pistol (12", A1), 5x Heavy Lance (A1, AP(2))
 1. Colonel Rixxon [1] | Q4+ D5+ | 70 pts | Hero, Intimidating Presence, Tough(3), Unique | 1x Master Pistol (12", A2), 1x Energy Sword (A2, AP(1), Rending)
 
-## 5 - 7
+## 5 - 6
 
 1. Infantry Squad [10] | Q5+ D5+ | 115 pts |  | 10x Rifle (24", A1), 10x CCW (A1)
 1. Weapon Teams [3] | Q5+ D5+ | 135 pts | Tough(3) | 3x Mortar (30", A1, Blast(3), Indirect), 3x Crew (A2)
@@ -33,7 +33,7 @@
 1. Snipers [6] | Q5+ D5+ | 240 pts | Scout, Stealth | 6x Sniper Rifle (30", A1, AP(1), Sniper), 6x CCW (A1)
 1. Combat Bikers [10] | Q5+ D5+ | 180 pts | Fast, Impact(1) | 10x Pistol (12", A1), 10x Heavy Lance (A1, AP(2))
 
-## 8 - 10
+## 7 - 9
 
 1. Battle Tank [1] | Q4+ D2+ | 365 pts | Fast, Impact(6), Tough(12) | 1x Nova Cannon (36", A1, AP(1), Blast(6)), 1x Twin Heavy Flamer (12", A2, AP(1), Blast(3), Reliable)
 1. Tactical Walker [1] | Q4+ D2+ | 345 pts | Fear(2), Tough(12) | 1x Walker Heavy Flamer (12", A4, AP(1), Blast(3), Reliable), 1x Stomp (A4, AP(1))
@@ -43,7 +43,7 @@
 1. Weapon Teams [6] | Q5+ D5+ | 270 pts | Tough(3) | 6x Mortar (30", A1, Blast(3), Indirect), 6x Crew (A2)
 1. OGRE Robots [6] | Q4+ D4+ | 330 pts | Furious, Robot, Tough(3) | 6x OGRE Gatling Gun (12", A3, AP(1)), 6x Heavy CCW (A1, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Heavy Battle Tank [1] | Q4+ D2+ | 465 pts | Fast, Impact(6), Tough(15) | 1x Twin Light Battle Cannon (30", A2, AP(2), Blast(3)), 1x Light Gatling Gun (18", A4), 1x Fusion Array (12", A2, AP(4), Deadly(3))
 1. Tactical Titan [1] | Q4+ D2+ | 550 pts | Fear(4), Tough(18) | 1x Cluster Missiles Array (24", A2, Blast(3)), 1x Walker Heavy Flamer (12", A4, AP(1), Blast(3), Reliable), 1x Stomp (A6, AP(2))

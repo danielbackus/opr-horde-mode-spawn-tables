@@ -16,7 +16,7 @@
 1. Yrana [1] | Q4+ D5+ | 95 pts | Caster(2), Hero, Rot Touch, Strider, Tough(3), Unique | 1x Blightfang Staff (A3, Poison)
 1. Beetle Swarms [6] | Q6+ D6+ | 100 pts | Scout, Strider, Tough(3) | 6x Swarm Attacks (A3, AP(1))
 
-## 5 - 7
+## 5 - 6
 
 1. War Dancers [5] | Q3+ D5+ | 125 pts | Regeneration, Strider, War Dance | 5x Dual Hand Weapon (A2)
 1. Glade Scouts [5] | Q4+ D5+ | 105 pts | Scout, Stealth, Strider | 5x Bow (24", A1), 5x Hand Weapon (A1)
@@ -38,7 +38,7 @@
 1. Deer Riders [10] | Q4+ D5+ | 200 pts | Fast, Impact(1), Scout, Strider | 10x Lance (A1, Lance)
 1. Deer Lancers [10] | Q3+ D5+ | 240 pts | Fast, Furious, Impact(1), Strider | 10x Lance (A1, Lance)
 
-## 8 - 10
+## 7 - 9
 
 1. Eternal Guardian Ancient [1] | Q3+ D3+ | 260 pts | Fear(2), Hero, Malice, Tough(9) | 1x Great Hammer (A3, AP(2), Blast(3)), 1x Stomp (A3, AP(1))
 1. Giant Beetle [1] | Q4+ D3+ | 260 pts | Fear(2), Strider, Tough(12) | 1x Shortbow Crew (18", A6), 1x Great Horn (A2, AP(2), Deadly(3)), 1x Stomp (A4, AP(1))
@@ -50,7 +50,7 @@
 1. Treeman Brutes [6] | Q4+ D5+ | 300 pts | Furious, Strider, Tough(3) | 6x Branch Mace (A3, AP(2))
 1. Giant Owls [6] | Q4+ D4+ | 310 pts | Fast, Flying, Impact(2), Tough(3) | 6x Rending Claws (A1, Rending)
 
-## 11 - 12
+## 10+
 
 1. Great Owl Chimera [1] | Q4+ D3+ | 480 pts | Fear(2), Flying, Regeneration, Tough(18) | 1x Great Horns (A6, Lance), 1x Heavy Claws (A6, AP(2)), 1x Stomp (A6, AP(2))
 1. Forest Ancient [1] | Q2+ D2+ | 885 pts | Caster(4), Fear(4), Tough(24) | 1x Rending Claws (A6, Rending), 1x Stomp (A8, AP(2)), 1x Tail Strike (A2, AP(1), Blast(3))

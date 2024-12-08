@@ -15,7 +15,7 @@
 1. Acolyte Henchmen [6] | Q5+ D5+ | 80 pts | Fearless | 6x Pistol (12", A1), 6x CCW (A2)
 1. Mystic Henchmen [6] | Q5+ D5+ | 90 pts | Beacon | 6x Pistol (12", A1), 6x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Cyber-Chimp Henchmen [3] | Q5+ D4+ | 115 pts | Good Shot, Relentless | 3x Smith Gun (18", A2, Rending), 3x Claws (A2)
 1. Assassin Henchmen [3] | Q4+ D5+ | 115 pts | Stealth | 6x 2x Energy Sword (A2, AP(1), Rending)
@@ -30,12 +30,12 @@
 1. Psychic Henchmen [6] | Q5+ D5+ | 170 pts | Psychic Host | 6x Pistol (12", A1), 6x CCW (A2)
 1. Private Guard [20] | Q5+ D5+ | 230 pts |  | 20x Rifle (24", A1), 20x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Spy Assassin [1] | Q2+ D2+ | 340 pts | Ambush, Fast, Hero, Regeneration, Stealth, Strider, Tough(6) | 1x Neuro Pistol (12", A6, Rending), 1x Toxic Blade (A6, Poison)
 1. Assault Assassin [1] | Q2+ D2+ | 355 pts | Fast, Furious, Hero, Regeneration, Scout, Stealth, Strider, Tough(6) | 1x Executioner Gun (12", A6, Poison), 1x Energy Claw (A6, Rending)
 1. Terror Assassin [1] | Q2+ D2+ | 345 pts | Fast, Fear(1), Hero, Regeneration, Scout, Stealth, Strider, Tough(6) | 1x Helmet Laser (18", A3, AP(1), Sniper), 1x Psy-Grenade (A2, AP(1), Blast(3))
 
-## 11 - 12
+## 10+
 
 1. Sniper Assassin [1] | Q2+ D2+ | 550 pts | Fast, Hero, Regeneration, Scout, Stealth, Strider, Tough(6) | 1x Heavy Sniper Rifle (36", A2, AP(4), Deadly(3), Sniper), 1x Combat Knife (A3)

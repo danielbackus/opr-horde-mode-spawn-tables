@@ -7,7 +7,7 @@
 1. Infected Gunners [3] | Q5+ D5+ | 85 pts | Relentless, Undead | 3x Grenade Launcher (24", A1, Blast(3)), 3x CCW (A1)
 1. Leech Swarms [3] | Q6+ D6+ | 65 pts | Strider, Tough(3), Undead | 3x Swarm Attacks (A3, Poison)
 
-## 5 - 7
+## 5 - 6
 
 1. Monstrous Tyrant [1] | Q3+ D2+ | 170 pts | Fear(1), Hero, Tough(6), Undead | 1x Monstrous Claws (A4, AP(1), Rending), 1x Stomp (A2, AP(1))
 1. Runners [10] | Q5+ D6+ | 105 pts | Strider, Undead | 10x Claws (A2)
@@ -30,7 +30,7 @@
 1. Crazed Ravens [6] | Q5+ D5+ | 210 pts | Flying, Tough(3), Undead | 6x Beak Attack (A3)
 1. Rabid Dogs [10] | Q4+ D5+ | 240 pts | Fast, Scout, Undead | 10x Vicious Jaws (A2, Rending)
 
-## 8 - 10
+## 7 - 9
 
 1. Abomination [1] | Q3+ D2+ | 380 pts | Fear(2), Tough(12), Undead | 1x Heavy Claws (A8, AP(3)), 1x Stomp (A4, AP(1))
 1. Light Dropship [1] | Q4+ D2+ | 300 pts | Aircraft, Tough(6), Transport(11), Undead | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Minigun (24", A4, AP(1))
@@ -40,7 +40,7 @@
 1. Boomers [6] | Q4+ D4+ | 350 pts | Boom, Tough(3), Undead | 6x Putrid Fists (A4, Poison)
 1. Infected Vultures [6] | Q4+ D4+ | 360 pts | Ambush, Flying, Tough(3), Undead | 6x Sharp Talons (A3, AP(1))
 
-## 11 - 12
+## 10+
 
 1. Battle Tank [1] | Q4+ D2+ | 440 pts | Fast, Impact(6), Tough(12), Undead | 1x Battle Cannon (30", A2, AP(2), Blast(3)), 1x Twin Heavy Machinegun (30", A6, AP(1))
 1. Corrupted Beasts [6] | Q3+ D3+ | 480 pts | Tough(3), Undead | 6x Dual Sharp Claws (A4, AP(1), Rending)

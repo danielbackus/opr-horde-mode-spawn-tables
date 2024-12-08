@@ -6,7 +6,7 @@
 1. Watch Prime Master [1] | Q3+ D2+ | 70 pts | Fearless, Hero, Tough(3), Purge | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 1. Watch Elite Raider [1] | Q4+ D3+ | 60 pts | Fearless, Furious, Hero, Strider, Tough(3), Purge | 1x Flamer Pistol (6", A1, Blast(3), Reliable), 1x CCW (A2)
 
-## 5 - 7
+## 5 - 6
 
 1. Watch Grave Prime Master [1] | Q3+ D2+ | 195 pts | Fearless, Hero, Tough(6), Purge | 1x Energy Greatsword (A8, AP(1), Rending)
 1. Watch Raider Squad [5] | Q4+ D3+ | 135 pts | Fearless, Furious, Strider, Purge | 5x Heavy Pistol (12", A1, AP(1)), 5x CCW (A2)
@@ -22,7 +22,7 @@
 1. Watch Prime ATV [1] | Q3+ D2+ | 240 pts | Fast, Fearless, Impact(3), Scout, Strider, Tough(6), Purge | 1x Twin Heavy Rifle (24", A2, AP(1)), 1x Gatling Gun (18", A6)
 1. Veteran Watch Prime Brothers [6] | Q3+ D2+ | 220 pts | Fearless, War Veteran, Purge | 6x Precision Rifle (24", A1, Reliable), 6x CCW (A1)
 
-## 8 - 10
+## 7 - 9
 
 1. Watch Guard Squad [3] | Q3+ D2+ | 320 pts | Fearless, Heavy Shield, Tough(3), War Veteran, Purge | 3x Heavy Pistol (12", A1, AP(1)), 3x Relic Sword (A1, AP(2), Deadly(3))
 1. Watch Eradication Squad [3] | Q3+ D2+ | 285 pts | Fearless, Tough(3), Purge | 3x Fusion Rifle (12", A1, AP(4), Deadly(3)), 3x CCW (A1)
@@ -43,7 +43,7 @@
 1. Watch Infernal Squad [6] | Q3+ D2+ | 250 pts | Fearless, Purge | 6x Flamer (12", A1, Blast(3), Reliable), 6x CCW (A1)
 1. Watch Elimination Squad [6] | Q3+ D3+ | 320 pts | Fearless, Scout, Stealth, Purge | 6x Sniper Rifle (30", A1, AP(1), Sniper), 6x CCW (A1)
 
-## 11 - 12
+## 10+
 
 1. Watch Anti-Grav Tank [1] | Q3+ D2+ | 500 pts | Fast, Fearless, Impact(6), Strider, Tough(15), Purge | 1x Twin Frag-GL (18", A2, Blast(3)), 1x Twin Light Gatling Gun (18", A8)
 1. Watch Heavy Anti-Grav Transport Tank [1] | Q3+ D2+ | 750 pts | Fast, Fearless, Impact(9), Strider, Tough(18), Transport(11), Purge | 1x Twin Heavy Machinegun (30", A6, AP(1)), 1x Heavy Gatling Gun (18", A8), 1x Proximity Defense Array (18", A3, AP(1), Lock-On)

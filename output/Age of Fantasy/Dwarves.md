@@ -14,7 +14,7 @@
 1. Beast Riders [5] | Q4+ D5+ | 100 pts | Devour, Slayer | 5x Dual Hand Weapons (A2)
 1. Dwarf Artillery [1] | Q4+ D5+ | 80 pts | Entrenched, Immobile, Tough(3) | 1x Organ Gun (18", A6, AP(1)), 1x Crew (A3)
 
-## 5 - 7
+## 5 - 6
 
 1. Hammer Elites [5] | Q3+ D4+ | 125 pts | Slow | 5x Great Weapon (A2, AP(2))
 1. Golems [3] | Q4+ D3+ | 130 pts | Slow, Strider, Tough(3) | 3x Stone Fist (A3, AP(1))
@@ -32,7 +32,7 @@
 1. Rangers [10] | Q4+ D5+ | 160 pts | Scout, Slow | 10x Throwing Axes (12", A2), 10x Hand Weapon (A1)
 1. Beast Riders [10] | Q4+ D5+ | 200 pts | Devour, Slayer | 10x Dual Hand Weapons (A2)
 
-## 8 - 10
+## 7 - 9
 
 1. Giant Construct [1] | Q3+ D2+ | 275 pts | Fear(2), Slow, Tough(12) | 1x Great Weapon (A6, AP(2)), 1x Stomp (A4, AP(1))
 1. Hammer Elites [10] | Q3+ D4+ | 250 pts | Slow | 10x Great Weapon (A2, AP(2))
@@ -41,6 +41,6 @@
 1. Drake Marksmen [10] | Q3+ D3+ | 350 pts | Slow | 10x Fire Rifle (18", A2, Rending), 10x Hand Weapon (A1)
 1. War-Bear Riders [6] | Q3+ D3+ | 340 pts | Impact(2), Tough(3) | 6x Hand Weapon (A1), 6x Heavy Claws (A1, AP(2))
 
-## 11 - 12
+## 10+
 
 No units.
